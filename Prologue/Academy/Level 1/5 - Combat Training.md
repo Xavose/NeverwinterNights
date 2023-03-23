@@ -12,8 +12,15 @@ Any creature who strikes Herban once recieves a B rank, twice A rank, thrice S r
 
 Erdan has an advanced archery range available for characters to prove their marksman capabilities.
 
-Characters will have three targets appear in front of them all at once and they will need to identify and shoot the correct target before they then drop down. 
+Characters will have three targets appear in front of them all at once and they will need to identify and shoot the correct target before they then drop down.
 
-1. A grizley bear, a goblin, and a little girl
+1. First target is a Grizley bear attacking a neverwinter guard.
+
+   1. AC 10
+2. Second target is twoi goblins about to attack a commoner.
+
+   1. AC 15
+3. A grizley bear, a goblin, and a little girl
+
    1. If the character makes an insight check they can discern that both the goblin and the bear appear to be runniing from the little girl. That is because she is in fact a wight that is spreading its undeath.
-1.
+   2. Each AC is 15.
