@@ -31,6 +31,24 @@ Sleeping Dragon Bridge, the Winged Wyvern Bridge, and
 the Dolphin Bridge.
 ```
 
-- Up ahead they see weary guards manning the Western Gate.
-  - They watch one of the gurads cut down a man who looks clearly ill.
-  - Guards demand the PC recieve a blessing from a priest of helm prior to entrance. (If they agree to recieve the blessing add them to the wailing death tracker.)
+## Gates of Neverwinter
+
+Up ahead they see weary guards manning the Western Gate.
+
+![1685387032951](image/EnteringNeerwinterFortheFirstTime/1685387032951.png)
+
+- They watch one of the gurads cut down a man who looks clearly ill.
+- Guards request the PCs recieve a blessing from a priest of helm prior to entrance. (If they agree to recieve the blessing add them to the wailing death tracker.) When this player is given the choice also get the dicision from all other players on what their character decided.
+- Player meets one other character at the gates who is having a hard time dealing with the guards. They have something in their pack that the guards demand to see but the player refuses to open it.
+
+## Neverwinter Academy
+
+![1685387230343](image/EnteringNeerwinterFortheFirstTime/1685387230343.png)
+
+- Once the players are through the gate they are directed to Neverwinter Academy.
+
+  - At the Academy Entrance Fenthic Mos is greeting the new arrivals with Desther acompanying him.
+  - Fenthic greets the newcomers and directs them towards the Senior Barracks.
+
+  ## Senior Barracks
+- Here the newcomers

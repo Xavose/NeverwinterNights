@@ -1,13 +1,10 @@
-# Description
+![1685386989701](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/zach.vosburgh/source/repos/NeverwinterNights/Prologue/Academy/image/EnteringNeerwinterFortheFirstTime/1685386989701.png)
 
-The Senior Barracks contains the finest rooms and commons that the Neverwinter Academy has to offer. Each room is fit for a single ocupent and has both an artisan wardrobe, closet, and guilded toilet space. 
-
-The commons area has a brass mana fountain in the shape of castle never. These fountains can be located throughout the academy and in a few locations within neverwinter and grant the characters the benefits of a long rest if they partake in the fountains mana over the course of a short rest. These fountains do not however prevent or allow characters to recover from exhaustion. 
-
-In addition to the fountain, the common area has several couches and tables, several with cards and dragon chess sets adorning them. 
-
-# Purpose
-
-Here the PCs can mingle with some of the other recruits and learn some basic information about Neverwinter and the wailing death.
-
-The other recruits will also gossip a bit about rumors they have gathered about the tests they expect to face.
+- Here the other members of the party are already unpacking their gear and meeting with other newcomers.
+  - [Boddyknock Glinckle](https://nwn.fandom.com/wiki/Boddyknock_Glinckle "Boddyknock Glinckle")
+  - [Daelan Red Tiger](https://nwn.fandom.com/wiki/Daelan_Red_Tiger "Daelan Red Tiger")
+  - [Grimgnaw](https://nwn.fandom.com/wiki/Grimgnaw "Grimgnaw")
+  - [Linu La&#39;neral](https://nwn.fandom.com/wiki/Linu_La%27neral "Linu La'neral")
+  - [Sharwyn](https://nwn.fandom.com/wiki/Sharwyn "Sharwyn")
+  - [Tomi Undergallows](https://nwn.fandom.com/wiki/Tomi_Undergallows "Tomi Undergallows")
+  - Pavel and Bim (Twins)
