@@ -1,4 +1,9 @@
 1. Wailing Death Tracker Update
+   1. Orla
+      1. DC: 6
+   2. Aluna
+      1. DC: 6
+         1. -1 to any perception checks that rely on sight
 2. Update Renown Tracker
 3. 
 
@@ -11,7 +16,7 @@ Unknown to the denizens of Neverwinter, the wailing death is no plague at all, b
 At the end of each long rest the players take while within the walls of Neverwinter they myst succeed on a Constitution savingthrow. The DC for this check is set according to the following conditions.
 
 - Base DC: 6
-- +2 if the player was blessed by a priest of helm since their last long rest.
+- +4 if the player was blessed by a priest of helm since their last long rest.
 - +2 if the player spent time in a quarantined area since their last long rest.
 - +2 if the character was in close contact with someone infected by the diseas.
 - +2 for each level of the wailing death the player has surcomb to.
