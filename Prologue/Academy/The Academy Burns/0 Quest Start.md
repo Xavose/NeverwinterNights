@@ -19,9 +19,7 @@ Please we must act quickly. I fear the forces attacking the Academy must be afte
 ```
 
 - Aribethe will hapily tell the group that she, fenthick, and Desther were speaking with some of the newer recruits when a group of mages suddenly appeared and attack. She and her comrades fought back the intruders but at great cost. Aribeth then went to clear a path out for the other survivors while Fenthick and Desther went to secure the waterdavian creatures.
-
 - The waterdavian creatures are four magical creatures who will  be used to create the cure for the wailing death.
+- The waterdavian creatures are being held in stalls in the Academy underground. They include an Umbral Hulk (pinver),  Oblex (brain), a Couatl (feather), a dryad (hair), and a Yuan-ti (scale).
 
-- The waterdavian creatures are being held in stalls in the Academy underground. They include an Oblex (brain), a Couatl (feather), a dryad (hair), and a Yuan-ti (scale).
-
-Aribeth emplores the players to track down the intruders and keep the waterdavian creaures safe.
+Aribeth emplores the players to track down the intruders and keep the waterdavian creatures safe. Before they depart she will take out a stone of restoration and grant them the effects of a long rest. She also gives each player 2 regular healing potions.
