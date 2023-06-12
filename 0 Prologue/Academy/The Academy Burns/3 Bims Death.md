@@ -1,10 +1,10 @@
-Continuing on past the store room the characters find themselves in a narrow hallway. 
+Continuing on past the store room the characters find themselves in a narrow hallway.
 
 ```
 The air smells damp with musk and torch light flickers to fill these narrow hallways. Up ahead, you can hear a strained voice shouting uncoharently accompanied by the sounds of battle. 
 ```
 
-If the players move quickly they will come upon the scene of Pavel (one of their fellow senior barracks members) standing over the fallen corpse of his twin brother Bim. 
+If the players move quickly they will come upon the scene of Pavel (one of their fellow senior barracks members) standing over the fallen corpse of his twin brother Bim.
 
 ```
 Peering into the open room you see a familiar face, Pavel, standing with his back to a wall facing down a group of goblins. Pavel's face is twisted with rage and regret as he brandishes his sword about wildly at the approaching goblins. 
@@ -23,5 +23,7 @@ The goblins leave one of their group to deal with the fallen pavel as the rest t
 # After Combat
 
 It is difficult to console Pavel at the death of his brother, but he is greatful to the party for saving his life. He will let them know that Bim and he followed a coweled figure through the hallways but were caught by surprise when the goblins suddenly appeared.
+
+If the players manage to save Pavel he will willingly join them on their quest after downing a couple of healing potions. He uses the [Soldier ](https://www.dndbeyond.com/monsters/175769-soldier)stat block and can be controlled by either character.
 
 ![1686424899315](image/3BimsDeath/1686424899315.png)

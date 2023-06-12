@@ -19,4 +19,7 @@
     - White puffy shirt
     - Vest
     - Pants
--
+- Her Big Bad Book
+  - The *Demonomicon of Iggwilv*
+
+![1686537498108](image/MBCharacters/1686537498108.png)

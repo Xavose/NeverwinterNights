@@ -5,7 +5,7 @@ When the players return from their first quest they see smoke rising from the ac
 When they make it to the Academy
 
 ```
-Bodies of your fellow adventurers litter the courtyard and pillars of smoke stream out of doors and windows leading into the Academy. The scene ahead is of battle as a scant few survivors fight of scattered groups of skeletons and goblins. You can see that many of the members of the senior barracks have joined in this fight. Daelen and Tommi take down a pair of goblins each with their swift weapons while Grimgnaw laghs maniachly as he punches skeletons into bone pile. Linu darts between the corpse strewn battlefield rendering what litle aid she can while avoiding the battle at large. 
+Bodies of your fellow adventurers litter the courtyard and pillars of smoke stream out of doors and windows leading into the Academy. The scene ahead is of battle as a scant few survivors fight off scattered groups of skeletons and goblins. You can see that many of the members of the senior barracks have joined in this fight. Daelen and Tommi take down a pair of goblins each with their swift weapons while Grimgnaw laghs maniachly as he punches skeletons into bone pile. Linu darts between the corpse strewn battlefield rendering what litle aid she can while avoiding the battle at large. 
 ```
 
 When the characters reach the battle let them join in for a couple of rounds before Lady Aribeth appears.

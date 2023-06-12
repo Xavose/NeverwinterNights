@@ -1,9 +1,10 @@
 1. Wailing Death Tracker Update
    1. Orla
-      1. DC: 6
+      1. DC: 10
+      2. 1 level of persistant plague
+         1. DC 8 CON to have a symptom removed
    2. Aluna
       1. DC: 6
-         1. -1 to any perception checks that rely on sight
 2. Update Renown Tracker
 3. 
 
