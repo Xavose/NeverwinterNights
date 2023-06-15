@@ -1,9 +1,6 @@
 # Current Quests
 
-
 # Upcoming Quests
-
-- 
 
 # Completed Quests
 
