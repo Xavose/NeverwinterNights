@@ -21,5 +21,8 @@
     - Pants
 - Her Big Bad Book
   - The *Demonomicon of Iggwilv*
+  - What escaped
+    - Fraz-Urb'luu's staff
+      - **weapon with the combined powers of a staff of command, a rod of beguiling, and a rod of rulership**.
 
 ![1686537498108](image/MBCharacters/1686537498108.png)

@@ -1,13 +1,19 @@
-Divine Training, taght by **Elynwyd**, is a chance for the characters to show their prowess in protection, healing, and divine intervention. 
+# Healing Trials
 
-The first test is to heal a wounded ally. Each character will be given a potion of inflict wounds to drink. Each potion does 2d4 damage. The characters then go in turn trying to heal eachother, one healer per injured student. 
+In the healing trials players will be tested on their abilities to defend their allies
 
-S: Over Heal
+## Restore the Pesent
 
-A: Full Heal
+The candidate will have an injured and diseased person brought before them. Each one is afflicted with multiple ailments. The player will have three rounds to restore the pesent to good health as much as possible. 
 
-B: Under Heal
+Pesent is at 1 hp our of 10
 
-C: No Heal
+Pesent is Poisoned
 
-D:  Caused Damage
+Pesent is Diseased
+
+Pesent is Cursed
+
+## Turn the Unholy
+
+As soon as the rounds of restoration are complete it will be discovered that the pesent is actually posessed by a ghost. The ghost is not hostile but the player will be asked to deal with the possesion by whatever means necessary.
