@@ -54,14 +54,17 @@
 # Zenith
 
 - Class
-  - Sorcerer (Draconic Bloodline)
-  - Warlock
+  - Sorcerer (Divine Soul)
+  - Warlock (Undead)
 - Race
 - Background Stuff
   - Born in Neverwinter
     - Son of Elis some guardian of celestial power
-    - Mother was just a lowly poor witch who had the blood of a blue dragon (Kalyphax)
 
+      - His father was actualy a servent of death
+    - Mother was just a lowly poor witch who practiced witch craft.
+
+      - **Unknown to Zenith, his mother was actually pacted to a hag**
       - Mother died during the plague
       - They did not interact with the Many Starred Cloak Enclave at all.
       - After she died he began to play around with darker magic

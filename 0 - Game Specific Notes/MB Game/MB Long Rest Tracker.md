@@ -6,7 +6,14 @@
    2. Aluna
       1. DC: 6
 2. Update Renown Tracker
-3. 
+3. Days till Lord Nasher Acknolodgement: 9
+4. Possible Visions
+   1. Orla:
+      1. Orla will have a vision where she meets with Zybilna in her castle in Prismeer. Zybilna will ask after her book and warn Orla to be careful with what she looked out.
+         1. ```
+            Well it  used to be a not so simple stick. But after being trapped in the book for so long who knows what kind of personality it has developed.
+            ```
+   2. Aluna:
 
 # Wailing Death Rules:
 
