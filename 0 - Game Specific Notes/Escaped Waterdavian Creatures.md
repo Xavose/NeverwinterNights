@@ -1,6 +1,4 @@
-# Possible Creatures.
-
-## Bone Naga: CR 4
+# Bone Naga: CR 4
 
 Component: Spine
 
