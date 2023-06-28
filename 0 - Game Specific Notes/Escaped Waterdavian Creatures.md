@@ -1,6 +1,6 @@
-# Bone Naga: CR 4
+# Flail Snail: CR 3
 
-Component: Spine
+Component: Shell
 
 Location: Gauntlgrym (Hall if kings)
 

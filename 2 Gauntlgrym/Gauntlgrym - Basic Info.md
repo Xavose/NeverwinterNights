@@ -16,7 +16,7 @@
 
 ![1687977461359](image/Gauntlgrym-BasicInfo/1687977461359.png)
 
-Here, the Bone Naga Serestas has burrowed in and taken up root. The players are to battle the Bone Naga so that the dwarves can return to their usual business and once again recieve the blessings of their ancestors. 
+Here, two flail snails have began a mating ritual which involves banging their flails against the crypt doors. The players are to battle the flail snails so that the dwarves can return to their usual business and once again recieve the blessings of their ancestors.
 
 ## Burning Heart
 
