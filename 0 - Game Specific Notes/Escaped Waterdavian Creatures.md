@@ -2,7 +2,9 @@
 
 Component: Spine
 
-Location: City Catacombs (beneath city core)
+Location: Gauntlgrym (Hall if kings)
+
+Party: MBs Party
 
 ## Myconid Sovereign: CR 2
 
@@ -10,7 +12,7 @@ Component: Crown
 
 Location: Castle Never
 
-Notes: 
+Notes:
 
 - Previously, the city council had procured this component amiacably from the Myconid's that hold sovereignty over castle Never. However, their recently crowned sovereign will not be so eager to part with his crown now that the previous sovereign has fallen.
 
@@ -20,7 +22,7 @@ Component: Seed
 
 Location: (Warehouse) Beggar's Nest
 
-Notes: 
+Notes:
 
 - The corpse flower was cultivated by the Yuan ti that has taken up root within the Beggar's Nest. She is using it as an additional means to generate zombies and as a covere for her own activities.
 
@@ -30,7 +32,7 @@ Component: Heart
 
 Location: Great Graveyard (Beggar's Nest)
 
-Notes: 
+Notes:
 
 - See `Plot` of Beggar's Nest
 
@@ -51,7 +53,7 @@ Component: Eye
 
 Location: Black Lake district
 
-Notes: 
+Notes:
 
 - Guilferar Backhand, is actually a Zakya Rakshasa in disguise. He arrived in the black lake district 2 years after the plague began and immediately found the quint district to his utmost satisfaction. He set up shop in the district and sells exotic merchandise and magic items to the nobility, using what little alchemy and enchanting he knows to fool the nobles into believing his wares provide magical protection against the wailing death.
 - Unfortunately for Guilferar, the cloaked enclave used powerful scrying magic to locate a nearby rakshasa eye when they learned it was needed for the cure. Guilferar was surprised to find the spellcasters at his doorstep. After some quick thinking and using some of his arcane tools Guilferar managed to convince the guild he had a rakshasa eye on hand and gave them one of his own eyes.

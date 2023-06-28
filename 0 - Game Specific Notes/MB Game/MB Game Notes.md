@@ -16,6 +16,8 @@
 
 - Bring Back works of art to Ophala
 - Track down the first Waterdavian Creature.
+  - Bone Naga: CR 4
+    - Hidden within Gauntlgrym. The Neverwinter council was notified of it's existence when they put out a call.
 - 
 
 # Completed Quests
