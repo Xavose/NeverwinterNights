@@ -16,6 +16,8 @@
 
 - Bring Back works of art to Ophala
 - Track down the first Waterdavian Creature.
+  - Flail Snail: CR 3
+    - Hidden within Gauntlgrym. The Neverwinter council was notified of it's existence when they put out a call.
 - 
 
 # Completed Quests
