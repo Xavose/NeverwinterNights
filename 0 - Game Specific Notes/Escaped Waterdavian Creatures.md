@@ -59,7 +59,7 @@ Notes:
 - Unfortunately for Guilferar, the cloaked enclave used powerful scrying magic to locate a nearby rakshasa eye when they learned it was needed for the cure. Guilferar was surprised to find the spellcasters at his doorstep. After some quick thinking and using some of his arcane tools Guilferar managed to convince the guild he had a rakshasa eye on hand and gave them one of his own eyes.
 - Now that the previous eye has been lost, the cloak tower will tell the city guard to go inquire with Guilferar about where he got the previous eye from. Guilferar is ready this time, and he plans to take the adventurers into the Never's tomb and lock them inside for good.
 
-## Night Hag: CR 5
+## Roper: CR 5
 
 ## Incubus: CR 4
 
