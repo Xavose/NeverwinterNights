@@ -27,3 +27,15 @@
       - **weapon with the combined powers of a staff of command, a rod of beguiling, and a rod of rulership**.
 
 ![1686537498108](../../image/MBCharacters/1686537498108.png)
+
+# Venegance
+
+Diety: Zeus
+
+Been doing cherity work.
+
+What are you avenging: There was a religious purge of the greek pantheon that is not making a resurgence. He is a member of the second crucade that has been tasked with converting other's to their pantheon as well as destroy those seeking to destroy them. 
+
+Why are you in Neverwinter: This is his mission trip. 
+
+He has been healing people and giving them pamphlets of the catholic faith.

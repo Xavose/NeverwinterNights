@@ -18,6 +18,8 @@
 
 Here, two flail snails have began a mating ritual which involves banging their flails against the crypt doors. The players are to battle the flail snails so that the dwarves can return to their usual business and once again recieve the blessings of their ancestors.
 
+When the character's arrive, the two snails have begun to `mate`. as a result, their two shells are inseperably conjoined together, giving them the appearance of a `huge` rock.
+
 ## Burning Heart
 
 The Burning Heart was a steam-filled chamber beneath the Great Forge that contained a pure [adamantine](https://forgottenrealms.fandom.com/wiki/Adamantine "Adamantine") ziggurat that was used to tap the power of Maegera, the primordial used to power the Great Forge.

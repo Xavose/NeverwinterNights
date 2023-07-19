@@ -1,5 +1,10 @@
 # Current Quests
 
+- What's next:
+  - Feast and games in Gauntylgrim
+  - Clear out the drow in the great forge
+  - Return to neverwinter for reward
+  - Down TIme
 - Downtime Activities
   - Aluna:
   - Orla:
@@ -11,6 +16,10 @@
 - Report back to Ophala in the moonstone mask.
   - Ophala has asked Aluna to keep her aprised of the going on within the city gurad.
   - At Aluna's next report Ophala will see the value of having a confidant who can enter the sanctioned sections of the city. She will ask Aluna to bring back any priceless art pieces she finds during her travels and will pay a premium for such items.
+- Clear out the drow in Gauntylgrim
+  - Bring Caerd the weapons and armor from the drow for a 25% discount on his weapons and armor.
+  - A drow clan has take over the great forge of gauntylgrim after being routed out from the main section. They hope to take over the rest of the dwarven kingdom.
+  - Get the  Zikran's Zephyrean Tome from king bruenor battlehammer
 
 # Upcoming Quests
 
@@ -23,4 +32,4 @@
 # Completed Quests
 
 - Defeat the will of the wisp terrorizing the Shining Knight's Arms and Armor
--
+- Defeat the flail snails in gauntylgrim

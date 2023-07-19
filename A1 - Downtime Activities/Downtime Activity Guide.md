@@ -24,27 +24,13 @@ If a character wishes to use their down time to progress in some manner (i.e. cr
    2. On a success of 10 or more or a natural 20 the character adds double the amount for their level.
    3. On a failure, they add no gp.
    4. On a failure of 10 or more, or a natural 1, the character destroys the materials, relations, or skill books bought with their upfront cost. They character cannot attempt to continue this downtime activity until they have paid the upfront cost again. Additional upfront costs do not count towards the Total Cost.
-   5. Gp per level.
-      * Level 1: 15gp
-      * Level 2: 60gp
-      * Level 3: 135gp
-      * Level 4: 240gp
-      * Level 5: 375gp
-      * Level 6: 540gp
-      * Level 7: 735gp
-      * Level 8: 960gp
-      * Level 9: 1220gp
-      * Level 10: 1500gp
-      * Level 11: 1820gp
-      * Level 12: 2160gp
-      * Level 13: 2540gp
-      * Level 14: 2940gp
-      * Level 15: 3380gp
-      * Level 16: 3840gp
-      * Level 17: 4340gp
-      * Level 18: 4860gp
-      * Level 19: 5420gp
-      * Level 20: 6000gp
+   5. Gp per level.![1689694206604](image/DowntimeActivityGuide/1689694206604.png)
    6. A character can attempt two of these checks (i.e. 8 hours worth of work) in any given downtime activity day. If they wish to make additional checks the DM may have the player roll to determine if they gain a level of exhaustion.
 6. Once the results of the check have been determined and applied the PC can choose to either pay off the rest of the total cost in gp and complete the item right then. Or wait to make additional checks that require more downtime to pay off the rest of the endstate. Being able to pay off the total cost in this way accounts for the character paying for better materials/tools, paying for magical skill books that impart knowledge, or paying additional fees to bargains or bribes.
 7. If the character fully accounts for the endstates total cost then they can update their character sheet to account for the additional bonus.
+8. Gaining Renown / Devotion
+   1. A player can work towards renown and devotion towards a guild, diety, or some other entity. Doing so unlocks specific benefits when dealing with that guild such as price discounts, favors, and prestige.
+
+      Whenever a character gains gold as part of their downtime activities they also add that many points towards any applicable entities they are gaining renown with. 
+
+      ![1689702958676](image/DowntimeActivityGuide/1689702958676.png)

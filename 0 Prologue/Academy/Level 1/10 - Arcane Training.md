@@ -2,7 +2,7 @@ Professor Fibblewith
 
 # Summary
 
-In these trials the Player is presented with a table of arcane tools and 9 walls representing different schools of magic. Behind each wall is a feather and the players must obtain 4 feather's in total to succeed. 
+In these trials the Player is presented with a table of arcane tools and 9 walls representing different schools of magic. Behind each wall is a feather and the players must obtain 4 feather's in total to succeed.
 
 If a character wishes to make an Arcana check to determine things about the test the follwing DCs apply
 
@@ -16,9 +16,9 @@ To Determine Spell at play (These DCs are reduced by 5 if the player can cast th
 - 5th level spell: DC 20
 - 6th level spell: DC 23
 
-If the player beats the DC by 5 or more they can also discover which wand they are expected to use against this wall. 
+If the player beats the DC by 5 or more they can also discover which wand they are expected to use against this wall.
 
-If the player fails the DC but fails by less than 5 they can at least discern the school of spell in play. 
+If the player fails the DC but fails by less than 5 they can at least discern the school of spell in play.
 
 ## Conjuration: Wall of Thorns
 
@@ -58,6 +58,8 @@ Gold Feather
 
 ![1687186606305](image/10-ArcaneTraining/1687186606305.png)
 
+Players jsut need to cast a divination spell within the zone and the feather will appear.
+
 ## Enchantment: Cast Charm Person
 
 Bronze Feather (Gold if correct wand used)
@@ -74,7 +76,7 @@ Gold Feather
 
 ## Items Available
 
-As soon as any wand is used to obtain a feather that wand disapears. 
+As soon as any wand is used to obtain a feather that wand disapears.
 
 - Wand of firebolt
 - Wand of mage hand
