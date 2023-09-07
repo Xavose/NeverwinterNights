@@ -1,0 +1,5 @@
+# Inhabitants
+
+Orc tribes
+
+Goblinoids

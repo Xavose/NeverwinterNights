@@ -2,7 +2,7 @@ Here, Herban and Erdan put the characters to the test in terms of martial profic
 
 # Combat Training
 
-In this test the characters are assessed on their ability to attack and defend. 
+In this test the characters are assessed on their ability to attack and defend.
 
 ## Attack:
 
@@ -21,11 +21,20 @@ The characters have two rounds of combat to deal as much damage as they can agai
 
 ## Defend
 
+Hands: Killed
+
+Auster: 2 pts (got advantage)
+
+Nym: 0 pts (got advantage)
+
+Abbath: Hit once reduced to 0 (Got advantage)
+
 The Characters have two rounds to take as little damage as possible from an ultimate attack character
 
 - The opponent is a variant human cleric / war, paladin, fighter (level 6)
 - Round 1 casts bless and closes on target.
 - Round 2
+
   - Attack:
     - -5 to hit
     - add d4 to hit

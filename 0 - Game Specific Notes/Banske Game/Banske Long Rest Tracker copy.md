@@ -1,11 +1,24 @@
 1. Wailing Death Tracker Update
-   1. Orla
-      1. DC: 6
-   2. Aluna
-      1. DC: 6
-         1. -1 to any perception checks that rely on sight
+   1. Abbath
+
+      1. 6
+   2. Austere
+
+      1. 6
+      2. DC to remove diseas: 6
+   3. Hands
+
+      1. 10 - poisoned by a diseased thug
+         1. You recieve a -1 bonus to strength saving throws
+            When you take a short rest roll a d20, on a nat 1 you fall asleep for 8 hours.
+         2. DC to remove diseas: 5
+   4. Nym
+
+      1. 10 - poisoned by dieseased thug
+   5. Zenith
+
+      1. 6
 2. Update Renown Tracker
-3. 
 
 # Wailing Death Rules:
 
