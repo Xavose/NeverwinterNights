@@ -19,3 +19,7 @@
   - Shining Knight's Arms and Armor: 2
     - 10% discount
     - Killed a will o the wisp that was terrorizing them
+- Shining Knight's Arms and Armor: 2
+
+  - Cleared out diseased thugs
+  - Casting mending on everything that broke

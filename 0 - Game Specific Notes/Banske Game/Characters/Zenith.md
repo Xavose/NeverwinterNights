@@ -3,6 +3,7 @@
 - Class
   - Sorcerer (Divine Soul)
   - Warlock (Undead)
+  - Variant Asimar
 - Race
 - Background Stuff
   - Born in Neverwinter
@@ -23,3 +24,24 @@
   - Would like to meet his father
 - Interests
 - Connections:
+- Why did you answer lord nasher's call
+- Who would he not kill
+  - Garry the gnome
+    - He is a baker in neverwinter and he lived down the street from me and my mom and took good care of us when mom was sick.
+- What do you fear most
+  - Falling too far out of balance.
+    - Falling too far towards good or evil
+
+# Downtime
+
+## Gaining Renown with City Guard
+
+Neds: 600 to level 2
+
+Starting: 5
+
+Current: 555
+
+Roll: Intimidation
+
+### City guard renown: 1mi
