@@ -1,0 +1,9 @@
+Objective: After many years of war the King wishes for a peace so that he can begin to build a unified Orc People's.
+
+If things go particularly well they would like to set up a delegation within Neverwinter.
+
+King Obould, first of the Many-Arrows was a brutish yet intelligent orc born to a group of savage orcs who dwelled in the wilderness surrounding Mithral Hall. He had a clear sense of tactics and had a level of intelligence surpassing even that of most humans, and with abilities born from this keen mind, he was distinguished as a leader at an early age.
+
+He waged war against the dwarves of Felbarr and Mithral Hall, and even against the many mages of Silverymoon. Soon' there was none who did not fear the bloodthirsty orc known as Obould, and they came to fear him as a conqueror. Yet even after battling throughout countless campaigns' the thirst he had for glory could not be quenched and so' he underwent a brutish shamanistic ritual to demand and instill in him the blessing of Gruumsh One-Eye' a greater diety and a commonplace patron of orcs and orogs' a demand that the god of rage, destruction and carnage granted him. And after terrorizing the silver Marches for years on end he came to be known as Obould-Who-Is-Gruumsh, an orc with the intelligence of an oracle' the strength of a bull and the speed of a cheetah, he was known as the exarch of Gruumsh.
+
+Yet despite his many conquests, Obould began to crave the peace and stability of a strong realm, one where the splintered orc clans could unite under one banner and live in safety. Under great protest from his followers, who saw this behavior as that of a weakling, he established the Kingdom of Many-Arrows, the first stable and sustainable orcish state in Faerûn. After dying peacefully of old age and in comfort in 1409 DR, Obould was raised by Gruumsh to godhood as an exarch, earning his place in Nishrek.
