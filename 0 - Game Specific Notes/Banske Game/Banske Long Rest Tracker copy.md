@@ -24,7 +24,7 @@
 
 Until the party thwarts Desther and the Other Priests of Helm they are at risk of contracting the wailing death.
 
-Unknown to the denizens of Neverwinter, the wailing death is no plague at all, but rather a mix of various diseases that have been exasterbated by the false priests of helm emparting their false blessing on the townsfolk. With each blessing, the priests are actually surpressing the recievers immune system and allowing all sorts of diseases to take hold.
+Unknown to the denizens of Neverwinter, the wailing death is no plague at all, but rather a mix of various diseases that have been exasterbated by the false priests of tyr emparting their false blessing on the townsfolk. With each blessing, the priests are actually surpressing the recievers immune system and allowing all sorts of diseases to take hold.
 
 At the end of each long rest the players take while within the walls of Neverwinter they myst succeed on a Constitution savingthrow. The DC for this check is set according to the following conditions.
 

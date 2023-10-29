@@ -1,11 +1,29 @@
+# Notes
+
+- Most of the new party arrives at Neverwinter and have baught rooms at the Trade of Blades.
+
 # Current Quests
 
-# Upcoming Quests
+- Bring Zenith Back to Life
+- Orc chief has requested aid dealing with a monster
+  - Dalen Red Tiger was brought in as translater
+  - Orc chief is offering to hold of raids of the city and surrounding villages for one year given success.
+  - Dalen Red Tiger can be brought along to help translate
+- 
 
-Capture first water davian creature
+# Possible Quests
 
-- Roper: cr 5
-- Located within the
+## Become a member of the many starred cloak Enclave
+
+## Gather the artifacts of Lord Never
+
+## Find and save animals within and around Neverwinter
+
+## Hunt down Waterdavian Creatures
+
+The next waterdavian creature that needs hunting down is Corpse Flower in the Begger's Nest. There is also a Yuanti Necromancer creating zombies along side it.
+
+## Become a member of the neverwinter spy guild. 
 
 # Completed Quests
 

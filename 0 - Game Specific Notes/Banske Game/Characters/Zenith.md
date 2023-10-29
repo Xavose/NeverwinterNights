@@ -36,12 +36,12 @@
 
 ## Gaining Renown with City Guard
 
-Neds: 600 to level 2
+Neds: 1950 to level 2
 
 Starting: 5
 
-Current: 555
+Current: 1380
 
 Roll: Intimidation
 
-### City guard renown: 1mi
+### City guard renown: 2
