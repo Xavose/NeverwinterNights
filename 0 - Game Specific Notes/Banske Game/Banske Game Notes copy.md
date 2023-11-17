@@ -1,15 +1,12 @@
 # Notes
 
-- Most of the new party arrives at Neverwinter and have baught rooms at the Trade of Blades.
+- The party has just gotten the door to Van Richten's tower open.
 
 # Current Quests
 
-- Bring Zenith Back to Life
-- Orc chief has requested aid dealing with a monster
-  - Dalen Red Tiger was brought in as translater
-  - Orc chief is offering to hold of raids of the city and surrounding villages for one year given success.
-  - Dalen Red Tiger can be brought along to help translate
-- 
+- Investigate the Warewolves attacking Phandalin
+  - Bring proof of as many warewolf kills as possible
+  - Return as many stollen kids as possible.
 
 # Possible Quests
 
@@ -23,7 +20,7 @@
 
 The next waterdavian creature that needs hunting down is Corpse Flower in the Begger's Nest. There is also a Yuanti Necromancer creating zombies along side it.
 
-## Become a member of the neverwinter spy guild. 
+## Become a member of the neverwinter spy guild.
 
 # Completed Quests
 
