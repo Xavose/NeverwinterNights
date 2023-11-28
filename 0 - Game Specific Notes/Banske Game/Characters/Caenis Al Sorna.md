@@ -25,3 +25,28 @@ Is continuing his membership with the Flaming Fists
 - Corovaran: 3
   - Previous Rogue Trainer Before Ketta.
   - Taught Caenis how to get caught at the right time.
+
+# Caenis Story Foretold
+
+## End Goal
+
+- Has rissen in ranks among the Flaming Fists
+  - Proven huimself a worthy:
+    - Combatant
+    - Tactitian
+    - Diplomat
+- Has gotten out of the shadow of his Father and Brother.
+  - His Father has died and on his death bed shares with him that he was proud of the man he had become and the path he had forged.
+  - His brother has firmly set himself on a different path.
+
+## Game Plan
+
+- Rising in the ranks of the Flaming Fists
+  - A representative of the Flaming Fists comes to Neverwinter to help guide Caenis.
+    - Offers training and quests.
+      - Training
+        - Teaching additional maneuvers
+        - Teaching
+  - Can be improved through down time
+- Leaving the shadow of his Brother
+  - Kaelyk Al Sorna starts sending Caenis letters telling him that he needs to start making a better show of the family name.
