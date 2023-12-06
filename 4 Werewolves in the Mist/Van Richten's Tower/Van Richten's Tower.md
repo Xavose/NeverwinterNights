@@ -116,32 +116,53 @@ The crates in this room are all empty.
 
 ### V5. Tower, Second Floor
 
-Dust and cobwebs fill this otherwise empty room, the wooden floor of which is badly rotted and partially collapsed.In the middle of the room is a 5-foot-square hole in the floor and ceiling, with a rusty chain near each corner. The chains are part of the tower’s elevator mechanism (see area V4). The 5-foot-square sections of floor that surround the central shaft are weak. Each 5-foot section can support 150 pounds; any more weight causes the section to collapse, and any creatures standing on that section fall 20 feet to the ground floor.
+```
+Dust and cobwebs fill this otherwise empty room, the wooden floor of which is badly rotted and partially collapsed.In the middle of the room is a 5-foot-square hole in the floor and ceiling, with a rusty chain near each corner.
+```
+
+The chains are part of the tower’s elevator mechanism (see area V4). The 5-foot-square sections of floor that surround the central shaft are weak. Each 5-foot section can support 150 pounds; any more weight causes the section to collapse, and any creatures standing on that section fall 20 feet to the ground floor.
+
+With a successful DC 15 Perception or Investigation check a player can spot a piece of paper that has fallen to the floor from above. This is a torn page from Vanrichten's journal that fell through holes in the floors above. The page details what little information Van Richten has been able to gleam about the creator races.
+
+```
+Sarrukh, the reptilian or sauroid creator race, rulers of the Sarrukh Empires from −35,000 DR and creators of the yuan-ti, naga, lizardfolk, and other serpentfolk and scalykind;
+
+Batrachi, the amphibioid creator race, rulers of the Batrachi Empires from −33,500 DR and creators of the bullywugs, doppelgangers, kuo-toa, and other amphibious, piscine, and shapeshifter races;
+
+Aearee, the avian creator race, rulers of the Aearee Empires from −31,000 DR and creators of the aarakocra, kenku, and other avian humanoids
+
+The fey rulers of the otherworldly realm of Faerie from −34,000 DR, creators of korreds, pixies, and sprites;
+
+Humans
+```
 
 ### V6. Tower, Third Floor
 
-Time and the elements have all but destroyed this chamber, leaving a gash in the northwest wall and slimy black mildew on the walls. The wooden floor is completely rotted and has begun to fall away in places.In the middle of the room is a 5-foot-square hole in the floor and ceiling, with a rusty chain near each corner. The chains are part of the tower’s elevator mechanism (see [area V4](https://www.dndbeyond.com/sources/cos/van-richtens-tower#V4TowerFirstFloor "area V4")). The 5-foot-square sections of floor that surround the central shaft are weak. Each 5-foot section can support 50 pounds; any more weight causes the section to collapse, and any creatures standing on that section fall 40 feet to the ground floor, smashing through the second floor on the way down.
+```
+Time and the elements have all but destroyed this chamber, leaving a gash in the northwest wall and slimy black mildew on the walls. The wooden floor is completely rotted and has begun to fall away in places.
+```
+
+In the middle of the room is a 5-foot-square hole in the floor and ceiling, with a rusty chain near each corner. The chains are part of the tower’s elevator mechanism (see [area V4](https://www.dndbeyond.com/sources/cos/van-richtens-tower#V4TowerFirstFloor "area V4")). The 5-foot-square sections of floor that surround the central shaft are weak. Each 5-foot section can support 50 pounds; any more weight causes the section to collapse, and any creatures standing on that section fall 40 feet to the ground floor, smashing through the second floor on the way down.
 
 ### V7. Tower, Fourth Floor
 
-Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrow slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow remained intact. Mounted to the rafters are pulleys around which hang iron chains that support the tower’s elevator platform.Van Richten spent several months in this room, reviewing a lifetime’s worth of research on Strahd von Zarovich — notes that, once he committed them to memory, he burned in the stove. He also burned his journals. Ezmerelda searched the room, hoping to find a clue to her mentor’s plan or whereabouts. Among the things she found here was a rolled-up map of Barovia and a burned page from van Richten’s journal, which she took and hid in her wagon ([area V1](https://www.dndbeyond.com/sources/cos/van-richtens-tower#V1EzmereldasMagicWagon "area V1")).
+```
+Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrow slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow remained intact. Mounted to the rafters are pulleys around which hang iron chains that support the tower’s elevator platform.
+```
 
-The standing armor is a suit of [animated armor](https://www.dndbeyond.com/monsters/16786-animated-armor). It is [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated) until someone speaks the command word (“Khazan”) within 10 feet of it, whereupon the armor follows the commands of the one who activated it. If 24 hours pass without its receiving a new instruction from its controller, the animated armor becomes [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated) until someone reactivates it. If it is reduced to 0 hit points, the armor falls to pieces and is destroyed.
+Van Richten spent several months in this room, reviewing a lifetime’s worth of research on The Creator Race — notes that, once he committed them to memory, he burned in the stove. He also burned his journals. All that remian are a rolled-up map of the Sword Coast and a burned page from van Richten’s journal, which he took and hid in his wagon ([area V1](https://www.dndbeyond.com/sources/cos/van-richtens-tower#V1EzmereldasMagicWagon "area V1")).
 
-A lavender aroma emanates from the wooden chest, which is unlocked and safe to open. It contains the severed head of a human Vistana named Yan. Its flesh has a waxy complexion and has been embalmed with magic oils. If a [speak with dead](https://www.dndbeyond.com/spells/speak-with-dead) spell is cast on his head (which would need to be taken somewhere away from the tower’s  *spell drain effect* ), Yan reveals that he was banished from his clan for stealing. A half-elf bard named Rictavio offered Yan a ride in his carnival wagon. The two traveled together for several days, but their time together was tense. When it was clear that Rictavio was looking for a road to Barovia, Yan tried to steal the wagon as well as Rictavio’s pet monkey, but Rictavio got the better of him and drove a sword through his gullet.
+The standing armor is a suit of [animated armor](https://www.dndbeyond.com/monsters/16786-animated-armor). It is [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated) until someone speaks the command word (“Khazan”) within 10 feet of it, whereupon the armor follows the commands of the one who activated it. If 24 hours pass without its receiving a new instruction from its controller, the animated armor becomes [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated) until someone reactivates it. If it is reduced to 0 hit points, the armor falls to pieces and is destroyed. Once the armor is brought out of the Tower's Antimagic field it animates fully and begins attacking any creatures nearby.
 
-The magic oils preserving Yan’s head allow it to remember conversations it has while under the effect of [speak with dead](https://www.dndbeyond.com/spells/speak-with-dead). Rictavio has cast [speak with dead](https://www.dndbeyond.com/spells/speak-with-dead) on the head twice to ask questions about the Vistani of Barovia. Yan believes that the half-elf plans to cause great harm to the Vistani and begs the characters to warn his people. He doesn’t know where his body is.
+A lavender aroma emanates from the wooden chest, which is unlocked and safe to open. It contains the severed head of a human Vistana named Yan. Its flesh has a waxy complexion and has been embalmed with magic oils. If a [speak with dead](https://www.dndbeyond.com/spells/speak-with-dead) spell is cast on his head (which would need to be taken somewhere away from the tower’s  *spell drain effect* ). Yan was slain many ages ago and his severed head given to the hag Bavlorna. Bavlorna used her magic to preserve the head and use as a font of information. Adventurers stole the head from Bavlorna decades ago and several years back it was bought by Van Richten who uses the head to store information about various monster's he has encountered. If a character casts speak with dead and asks Yan about a Fey, Fiend, Undead, Celestial, Aberation, Elemental or any other **Outsider** they can roll a d20. On a roll of 11 or higher Yan has heard of this creature and can answer questions about it's strengths and weaknesses.
+
+The magic oils preserving Yan’s head allow it to remember conversations it has while under the effect of [speak with dead](https://www.dndbeyond.com/spells/speak-with-dead). Van Richtenhas cast [speak with dead](https://www.dndbeyond.com/spells/speak-with-dead) on the head twice to ask questions about the creator races which Yan had no information of.
 
 ##### Treasure
 
 - A map to the werwolf cave
-- A torn page from Khazan's journal of the Occult that has some scattered knowledge of `Loup Garus`, at the top of the page scratched in Van Richten's handwriting is `Kiril`.
-
-#### Fortunes of Ravenloft
-
-If your card reading reveals that a treasure is here, it’s in a narrow compartment hidden in the wall behind the suit of armor. If the armor is activated and commanded to retrieve the treasure, it pulls the stones out of the wall, revealing the treasure beyond.
-
-If the characters have collapsed the tower (see [area V2](https://www.dndbeyond.com/sources/cos/van-richtens-tower#V2TowerDoor "area V2")), they find the treasure after 1d8 + 2 hours of searching through the rubble. For each hour they spend searching, they have a 10 percent chance of accidentally unearthing a [clay golem](https://www.dndbeyond.com/monsters/16825-clay-golem) (see [area V4](https://www.dndbeyond.com/sources/cos/van-richtens-tower#V4TowerFirstFloor "area V4")) that withstood the collapse. The golem, which took no damage from the collapsing tower, is berserk and attacks until destroyed.
+- A torn page from Khazan's journal of the Occult that has some scattered knowledge of `Loup Garus`, at the top of the page scratched in Van Richten's handwriting is the name `Kiril`.
+- Schematic's and details about Van RIchten's Wagon including information about the trap door and the command word to use the horses.
 
 ## Special Events
 
@@ -161,16 +182,8 @@ If the characters were drawn into Barovia by the “[Werewolves in the Mist](htt
 
 A captured werewolf can be forced to divulge the whereabouts of the children kidnapped by the pack. They are being held in a cave to the west (see chapter 15, “[Werewolf Den](https://www.dndbeyond.com/sources/cos/werewolf-den "Werewolf Den")”).
 
-### Ezmerelda’s Retreat
+### VanRichten's Capture
 
-[Ezmerelda d’Avenir](https://www.dndbeyond.com/monsters/17364-ezmerelda-davenir) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#EzmereldadAvenir "appendix D")) returns to Van Richten’s Tower after confronting Strahd in Castle Ravenloft and barely escaping with her life. She arrives on the back of a [riding horse](https://www.dndbeyond.com/monsters/16997-riding-horse) stolen from the Vistani camp outside Vallaki ([chapter 5](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki "chapter 5"), [area N9](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#N9VistaniCamp "area N9")).
-
-Ezmerelda hopes that the arsenal of weapons in her wagon will be enough to protect her from the vampire’s wrath. If the characters blew up the wagon, she is understandably annoyed and retreats to the tower. (She knows the trick to bypassing the trap on the tower door.) If the tower has also been destroyed, she doesn’t stick around unless the characters are clearly her best hope of survival.
-
-Ezmerelda’s altercation with Strahd has left her with only 30 hit points. She graciously accepts any healing the characters have to offer.
-
-#### Development
-
-From this moment on, Strahd gains a new goal: kill Ezmerelda d’Avenir. Knowing that his Vistani spies might be conflicted at the thought of slaying one of their own, Strahd relies on the druids and the werewolves of the Svalich Woods, as well as human spies and vampire spawn hidden in Barovia’s settlements, to help him find and kill Ezmerelda. If Strahd learns that she and the characters are working together, he invites the characters to Ravenloft, expecting that Ezmerelda will accompany them. The characters receive their invitation in the form of a letter delivered by one of Strahd’s spies. If the characters open and read the letter, show the players the “[Strahd’s Invitation](https://www.dndbeyond.com/sources/cos/appendix-f-handouts#StrahdsInvitation "Strahd’s Invitation")” handout in [appendix F](https://www.dndbeyond.com/sources/cos/appendix-f-handouts "appendix F"). If the characters head toward the castle, they have no threatening random encounters on the way.
+In his search for the warewolves Van Richten was found out. Kiril requested aid by Desther who sent several of his priests to assault the Monster Hunter within his tower. Finding himself overpowered and surounded Van Richten chose to be captured rather than die in a one sided battle. Desther had the priests drag Van RIchten to helm's hold where he is being held captive. Desther appreciates Van RIchten's expertise of the ocult. He has locked Van RIchten in the Hold's Library and provides him with books on the Creator Race to gleam any information he can about his masters.
 
 [![](https://www.dndbeyond.com/attachments/thumbnails/1/839/600/672/cos11-05.png)](https://www.dndbeyond.com/attachments/1/839/cos11-05.png)

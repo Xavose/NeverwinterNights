@@ -59,3 +59,10 @@ Piety Level: 2
 Roll: Religion (Gains proficiency at devotion level 3)
 
 ## Devotion to
+
+# Magic table of bad stuff to happen to Mike when he is being an idiot
+
+| col1 | col2 | col3 |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |

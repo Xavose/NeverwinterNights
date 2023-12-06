@@ -2,7 +2,8 @@ My mother, **Helen**, was a human cleric of Helm and a member of the Watchers ov
 
 I came to Neverwinter in the hope of honoring Helm while outrunning the stings of my lineage. I secretly hope that one day I may gain Helm's favor and be allowed into his direct service as a full powered angel. I do my best to stay out of the spotlight directly. I look human in appearance with blonde hair and blue eyes. I wear large flowing robes with a large hood that hangs down over my back to disguise and cover the feathered wings that remain tightly pressed to my back.
 
+# Rebuilding Helm
 
-# GM Notes
+## Discovering the false Helmites
 
-Selephon has reached out to Gariel in his dreams in the form of a stag to tell him of his lineage and ask him to go investigate the Helmite's in Neverwinter. The Helmites of Helms Deep have been off for many years now, and Helm is growing week in their absence.
+## Rebuilding Helms Hold
