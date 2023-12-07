@@ -4,6 +4,34 @@ I came to Neverwinter in the hope of honoring Helm while outrunning the stings o
 
 # Rebuilding Helm
 
+## Worship of a dead god
+
+Unkown to mortals, Helm was slain by Tyr in a misunderstanding perpetuated by Cyric (the god of trickery). In the wake of Helm's death, one of his Devas, **Selephon**, was sent to the material plane with orders of birthing a savior to the priesthood of Helm. Selephon found Helen and knew her to bear a soul devoted to protection and defense. He blessed her with a child, **Gariel**.
+
+Unknown to the other gods, Helms death was orcestrated by Morag who feared Helm's intervention in her plans for Neverwinter. With the fall of Helm, Morag was able to implace Desther within the folds of the Helmites and bring about his meteoric rise to power within the Hold. When Desther had risen to sufficient glory, he turned on his fellow Helmites, slaughtering them all and raising up his own priests and devotees sworn to the Creator Race.
+
+When Helen began to sense mounting tensions and deceipt within Helm's Hold she fled with her baby to **Waterdeep**. There, unwiling to accept the destiney that had been placed on her child's shoulder's Helen did her best to raise Gariel without the knowledge of his destiney. To her dismay, when Gariel was still a young boy he began to show signs of innate divine magic on a level that she had never born wintess to before. Still she tried to protect her baby boy from his detiney. But, as Gariel grew older a natural curiosity setled upon him to find out more about his past and his connection to Helm.
+
+It is now Gariel's destiney to decide the fate of Helm's future within the Forgotten Realms. First, he must learn of Helm's absence and demise. Then, he must fell those who have corrupted his god's will on Toril. Finally, when the corruption has been cut away, he will have to decide how to move forward in worship to a broken and dead god.
+
 ## Discovering the false Helmites
+
+With the aid of Fenthic, Desther has bestowed a ring of protection onto some of the key figures within Neverwinter. Lady Aribeth, Lord Nasher, and many of the council all wear these rings. The rings were blessed by Desther to fend off the wailing death, but they also give Desther a path to influence the minds of those wearing his rings. Noteably, Desther saw no need to bestow a ring on Fenthic who trust Desther implicitly because Desther once falsly saved the life of Fenthic's nephew.
+
+## Figuring out what happened to Helm
+
+Nearly all of the power that remains from Helm now rests within Gariel. Much of this power is locked behind magical barriers placed within Gariel. Ready to be unleashed as his own personal knowledge and power grows.
+
+## Antagonists
+
+### Desther Leader of the False Helmites
+
+### Cyric God of Deception
+
+Cyric's original involvement in this plot was founded in the Trickster's desire to steal Helm's power. When Helm realized his demise was imminant he sequestered that power away by creating a Divine Soul within Gariel. That power is now bonded to Gariel and can only be fully released once Gariel has fully accepted his power.
+
+Cyric now waits in the shadows for the moment where he can strike and take Helm's power for himself. In the meantime, he has taken Helm's place in most of the Protector God's area's of worship. In these cases, he creates false and twisted protection for those who offer worship.
+
+If Cyric does get his hands on Helm's portfolio he plans to
 
 ## Rebuilding Helms Hold

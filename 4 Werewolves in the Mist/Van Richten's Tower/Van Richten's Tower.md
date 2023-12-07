@@ -102,9 +102,11 @@ Rotting wooden beams support the scaffolding, which groans and creaks with the s
 
 ### V4. Tower, First Floor
 
+```
 The flagstone floor is strewn with debris, and a few old crates stand near the east wall. A torn curtain to the south partially obscures the tower vestibule.
 
 A five-foot-square indentation in the center of the floor contains four pulleys attached to taut iron chains that stretch up through a similarly sized hole in the rotted wooden ceiling. Standing next to the chains are four tall clay statues.
+```
 
 The four statues are [clay golems](https://www.dndbeyond.com/monsters/16825-clay-golem) that defend themselves if attacked. Otherwise, their sole purpose is to operate the elevator, which they do by pulling on the chains. The chains attach to a 5-foot-square wooden platform that normally rests on the fourth floor.
 

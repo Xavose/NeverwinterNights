@@ -68,7 +68,7 @@ Your piety score to Heliod decreases if you diminish his influence in the world,
 
 *Piety 3+ Vengeance Trait*
 
-Your loyalty to vengeance allows you to protect a creature from those who are antithesis to your oath. You can cast the Sactuary spell once with this trait. Once you do so, you must finish a long rest before you can use this trait again. Charisma is your spellcasting ability modifier for this trait. 
+Your loyalty to vengeance allows you to protect a creature from those who are antithesis to your oath. You can cast the Sactuary spell once with this trait. Once you do so, you must finish a long rest before you can use this trait again. Charisma is your spellcasting ability modifier for this trait.
 
 #### Votary of Vengeance
 
@@ -80,7 +80,7 @@ You can cast [Asharladon&#39;s Stride](https://www.dndbeyond.com/spells/ashardal
 
 *Piety 25+ Vengeance trait*
 
-Your Vengeance knows no bounds. While your Vow of Enmity is active you have advantage on any savingthrows to avoid any affect that might keep you from your target to include paralysis, 
+Your Vengeance knows no bounds. While your Vow of Enmity is active you have advantage on any savingthrows to avoid any affect that might keep you from your target to include paralysis,
 
 #### Champion of Vengeance
 
@@ -100,7 +100,7 @@ Gai grants you protection against harm from the forces found on her surface. You
 
 *Piety 10+ Gaia Trait*
 
-Gai sends the spirits of her denizen's to protect you. You learn the Conjure Animals spell from Playtest 8 as outlined below. 
+Gai sends the spirits of her denizen's to protect you. You learn the Conjure Animals spell from Playtest 8 as outlined below.
 
 CONJURE	ANIMALS
 Level	3	Conjuration	(Druid,	Ranger)
@@ -132,7 +132,6 @@ increases	by 1d10 for	each	slot	level	above	3.
 ## Gaia's Disciple
 
 *Piety 25+ Gaia Trait*
-
 
 ## Champion of Nature
 
