@@ -135,7 +135,7 @@ Aearee, the avian creator race, rulers of the Aearee Empires from −31,000 DR a
 
 The fey rulers of the otherworldly realm of Faerie from −34,000 DR, creators of korreds, pixies, and sprites;
 
-Humans
+Humans - The servants
 ```
 
 ### V6. Tower, Third Floor

@@ -2,20 +2,20 @@
    1. Abbath
 
       1. 6
-   2. Austere
+   2. Gariel
 
       1. 6
       2. DC to remove diseas: 6
-   3. Hands
+   3. Vaelin
 
-      1. 10 - poisoned by a diseased thug
-         1. You recieve a -1 bonus to strength saving throws
-            When you take a short rest roll a d20, on a nat 1 you fall asleep for 8 hours.
-         2. DC to remove diseas: 5
-   4. Nym
+      1. 6
+   4. Caenis
 
-      1. 10 - poisoned by dieseased thug
+      1. 6
    5. Zenith
+
+      1. 6
+   6. Stacia
 
       1. 6
 2. Update Renown Tracker
