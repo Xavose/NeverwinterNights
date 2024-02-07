@@ -21,3 +21,7 @@ Leaders: Tatiana Demidovah, Chris Gordon
 Coven of Vampires that leads on of the largest underground industries within Waterdeep.
 
 The Coven has long stood guard as the premier judge, jurry, and executors of rogue vampires.
+
+# Downtime Activities
+
+## Wolfie Training

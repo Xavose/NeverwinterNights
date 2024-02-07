@@ -8,23 +8,23 @@ These values are doubled by a Critical Success and Subtracted for a Critical Fai
 
 Levels 1-2: 25gp / day
 
-Levels 3-4: 50gp / day
+Levels 3-4: 25gp / session
 
-Levels 5-6: 100gp / day
+Levels 5-6: 50gp / session
 
-Levels 7-8: 250gp / day
+Levels 7-8: 125gp / session
 
-Levels 9-10: 250gp / day
+Levels 9-10: 125gp / session
 
-Levels 11-12: 350gp/day
+Levels 11-12: 175gp / session
 
-Levels 13-14: 350gp/day
+Levels 13-14: 175gp / session
 
-Levels 15-16: 500gp/day
+Levels 15-16: 250gp / session
 
-Levels 17-18: 1000gp/day
+Levels 17-18: 500gp / session
 
-Levels 19-20: 2000gp/day
+Levels 19-20: 1000 gp / session
 
 ## Extrapolated Item Cost and DC to craft by Rarity
 
