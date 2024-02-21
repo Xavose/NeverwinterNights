@@ -9,6 +9,7 @@
    3. Vaelin
 
       1. 6
+      2. Diseases:
    4. Caenis
 
       1. 6
@@ -17,8 +18,11 @@
       1. 6
    6. Stacia
 
-      1. 6
+      1. 12
+         1. Took the Helms Blessing
 2. Update Renown Tracker
+3. Days until full moon: 6
+4. Days until Athena arrives in Neverwinter: 11
 
 # Wailing Death Rules:
 
@@ -52,7 +56,7 @@ Each time a player gains a level of wailing death they must roll on the wailing 
 | 6   | Fatigue          | You recieve a -1 bonus to strength saving throws<br />When you take a short rest roll a d20, on a nat 1 you fall asleep for 8 hours.                                                      |
 | 7   | Sinus Headache   | You recieve a -1 bonus to Con saves to maintain concentration on a spell                                                                                                                   |
 | 8   | Gas              | You recieve a -1 bonus to all CHA based ability checks.<br />Whenever you roll a CHA based ability check roll a d20.<br />On a 1 you pass gas offensively.                                |
-| 9   | Rashes           | While wearing armor your speed is reduced by 5.                                                                                                                                            |
+| 9   | Rashes           | While wearing armor your speed is reduced by 10.                                                                                                                                           |
 | 10  | Pustuals         | Whenever you take damage you take an extra 1d4 of bleeding damage.                                                                                                                         |
 | 11  | Night tremors    | Whenever you take a long rest roll a d20. On a 1 you do not gain the benefits of a long rest.                                                                                              |
 | 12  | Nausea           | You gain a -1 bonus to all wis and cha ability checks.                                                                                                                                     |

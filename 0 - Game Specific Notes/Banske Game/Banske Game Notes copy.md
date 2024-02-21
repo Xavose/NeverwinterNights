@@ -1,6 +1,19 @@
 # Notes
 
-- The party has just gotten the door to Van Richten's tower open.
+- The party has just gone through a Door while connecting the cloak tower to the wizard lab in the arcanist quarter.
+  - Do A Door thing
+  - Depending on how long the party stays in A Door the pheonix outside will either
+    - Roll D100
+    - < 30 Flies through the portal and attacks the cloak tower.
+      - Kills 1d6 mages before dying.
+    - < 60 Consumes the portal magic
+    - < 90 gets dealt with by the Cloak Tower
+      - Kills 1d3 mages
+    - < 100 flies into A Door and gets flyswatted
+- The change of Georgie
+  - Stacia, georgie, and whoever else she brings are teleported inside the cloak tower and shown various rooms to choose from to handle Georgie's transformation.
+  - During Georgie's transformation the spirit of the Loup Garou has infected his wolf's spirit
+    - Stacia must intimidate, fight off, or distract the Loup Garou spirit. If she does not either destroy it or get it to submit it will take over Georgie's soul and turn him into a servant of the Creator Race.
 
 # Current Quests
 

@@ -34,8 +34,8 @@ Khazan warded his tower so that he alone could cast spells near or within it. Th
 
 The following areas correspond to labels on the map of Van Richten’s Tower below.
 
-[![](https://www.dndbeyond.com/attachments/thumbnails/2/696/300/825/027.jpg)](https://www.dndbeyond.com/attachments/2/696/027.jpg)
-MAP 11.1: VAN RICHTEN’S TOWER (AREA V)VIEW PLAYER VERSION
+[![img](https://www.dndbeyond.com/attachments/thumbnails/2/696/300/825/027.jpg)](https://www.dndbeyond.com/attachments/2/696/027.jpg)
+MAP 11.1: VAN RICHTEN'S TOWER (AREA V)VIEW PLAYER VERSION
 
 ### V1. Van Richten's Magic Wagon
 
@@ -189,3 +189,7 @@ A captured werewolf can be forced to divulge the whereabouts of the children kid
 In his search for the warewolves Van Richten was found out. Kiril requested aid by Desther who sent several of his priests to assault the Monster Hunter within his tower. Finding himself overpowered and surounded Van Richten chose to be captured rather than die in a one sided battle. Desther had the priests drag Van RIchten to helm's hold where he is being held captive. Desther appreciates Van RIchten's expertise of the ocult. He has locked Van RIchten in the Hold's Library and provides him with books on the Creator Race to gleam any information he can about his masters.
 
 [![](https://www.dndbeyond.com/attachments/thumbnails/1/839/600/672/cos11-05.png)](https://www.dndbeyond.com/attachments/1/839/cos11-05.png)
+
+# Development
+
+The party has destroyed Van Richten's tower along with all the valuables and information within.

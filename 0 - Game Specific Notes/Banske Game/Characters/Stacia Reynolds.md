@@ -25,3 +25,27 @@ The Coven has long stood guard as the premier judge, jurry, and executors of rog
 # Downtime Activities
 
 ## Wolfie Training
+
+### Command Spell
+
+Need: 2000
+
+Roll: Persuasion
+
+Have: 2000
+
+### Wolfie Armor
+
+Need: 750
+
+Have: 750
+
+### Wolfie Medium Armor Training
+
+Need: 5000
+
+Roll: Wolfie CON
+
+Have: 1650
+
+### Prepping for Georgie's change

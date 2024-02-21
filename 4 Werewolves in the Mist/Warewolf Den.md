@@ -141,7 +141,7 @@ The treasure piled around the base of Morag’s statue includes:
 * An ivory drinking horn engraved with dancing dryads and satyr pipe players (worth 250 gp)
 * An ornate electrum censer with platinum filigree (worth 750 gp)
 
-Anyone who steals from Mother Night is cursed. The werewolves know this, and thus don’t go out of their way to guard the hoard.
+Anyone who steals from the Creators is cursed. The werewolves know this, and thus don’t go out of their way to guard the hoard.
 
 Any creature that takes treasure from this pile is haunted by horrible dreams every night lasting from dusk until dawn. The curse affects only the creature that did the pilfering and isn’t passed on to anyone else who might come into possession of the item. Returning a stolen item to the treasure pile doesn’t end the curse.
 

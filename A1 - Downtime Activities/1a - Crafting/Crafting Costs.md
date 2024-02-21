@@ -6,15 +6,15 @@
 
 These values are doubled by a Critical Success and Subtracted for a Critical Failure
 
-Levels 1-2: 25gp / day
+Levels 1-2: 13gp / session
 
 Levels 3-4: 25gp / session
 
-Levels 5-6: 50gp / session
+Levels 5-6: 100gp / session
 
-Levels 7-8: 125gp / session
+Levels 7-8: 250gp / session
 
-Levels 9-10: 125gp / session
+Levels 9-10: 250gp / session
 
 Levels 11-12: 175gp / session
 

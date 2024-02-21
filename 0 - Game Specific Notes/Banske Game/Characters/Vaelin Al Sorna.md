@@ -1,4 +1,4 @@
-Stayed home to train while his brother left for Neverwinter Academy. Is set up to become the heir to his father's estate. 
+Stayed home to train while his brother left for Neverwinter Academy. Is set up to become the heir to his father's estate.
 
 Works as a high ranking officer of the Watch (Baldur's Gate Guards)
 
@@ -19,3 +19,13 @@ The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve 
 # Relationship with Brother
 
 Beat the shit out of him with a sword as kids. Caenis has several scars on his back as a result.
+
+# Downtime Activities:
+
+## Smithing Proficiency:
+
+Need: 3000
+
+Roll: STR check
+
+Have: 1570

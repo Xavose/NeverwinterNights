@@ -58,7 +58,7 @@ Zenith's father, Thracier Ramore, is a healer on the battlefield. He runs back a
 
 ### Dreams of a Cleric Becoming a Knight
 
-In this dream, Athreos finishes collecting a soul from an elf who has been executed before watching as Lord Never sits upon a throne inside of Castle Never as Thracier is brought before him. It is revealed that Thracier has been a powerful force of healing on the battlefield in that last few campaigns. Lord Never asks the young elf why he gives equal treatment to both men and elves alike. Thracier responds that all life has value in the eyes of the gods. Lord Never does not approve, and warns Thracier that he should be warry of one day restoring the life of an enemy that will end his own. The conversation then turns to the accolades of Thracier in combat outside of his healing abilities. They reveal that Thracier wields a sword as well as any other Soldier. Lord Never then calls upon the Never Nine to step forward. He reveals that one of the Nine, his personal guard has recently fallen in battle (in fact, they were the Soldier executed just moments before). As a reward for his bravery in battle, Lord Never has chosesn Thracier to be the newest member of the Nine.
+In this dream, Athreos finishes collecting a soul from an elf who has been executed before watching as Lord Never sits upon a throne inside of Castle Never as Thracier is brought before him. It is revealed that Thracier has been a powerful force of healing on the battlefield in the last few campaigns. Lord Never asks the young elf why he gives equal treatment to both men and elves alike. Thracier responds that all life has value in the eyes of the gods. Lord Never does not approve, and warns Thracier that he should be warry of one day restoring the life of an enemy that will end his own. The conversation then turns to the accolades of Thracier in combat outside of his healing abilities. They reveal that Thracier wields a sword as well as any other Soldier. Lord Never then calls upon the Never Nine to step forward. He reveals that one of the Nine, his personal guard has recently fallen in battle (in fact, they were the Soldier executed just moments before). As a reward for his bravery in battle, Lord Never has chosesn Thracier to be the newest member of the Nine.
 
 ### Dreams of the Defying Passage
 
@@ -81,3 +81,18 @@ In this dream, Athreos descends on his griffon to watch Thracier as he sits and 
 In this vision, Athreos watches as Thracier attacks the two of the Nine marked for death upon the battlements of Castle Never. Thracier is outmatched in matial prowess but calls upon his God to grant his power. Souls of those who are passing suddenly swarm around Thracier in a thick green and silvery cyclone. Thracier uses these spritis to throw his fellow Knights off of the battlements and to their deaths below. The bodies are seen by other guards of lord Never, who sound the alarm, and many guards can be heard leading towards the tower. Thracier then looks to his god and puts his weapons and armor on the ground before stepping up to the edge of the battlements. `I Am Ready!` He cries.  There, Athreos appears to him and reaps the soul from his chest. His body falls to the ground below, but his spirit looks upon Athreos in awe as the God of Passage turns him into a Deva, and Thracier takes his place as one of the Reapers.
 
 ### A witch, a reaper, and a caudronDream
+
+# Downtime Activities
+
+## Training in Medium Armor
+
+- Need: 10000 points
+- Roll: Con checks
+- Current Points: 1900 gp
+
+## Gaining Renown with NW:
+
+- Current Rank: 3
+- Roll: Intimidation
+- Current Points: 200
+- Need Points: Whatever I end up using for level 4

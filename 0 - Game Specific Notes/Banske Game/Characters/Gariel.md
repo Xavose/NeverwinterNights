@@ -35,3 +35,15 @@ Cyric now waits in the shadows for the moment where he can strike and take Helm'
 If Cyric does get his hands on Helm's portfolio he plans to
 
 ## Rebuilding Helms Hold
+
+# Downtime Activities
+
+## Training in Medium Armor
+
+- Need: 15000 points
+- Roll: Con Check
+- Current Points: 1800
+
+## Talk to Desther
+
+- Have his acholytes look into what is goin on in the hold.

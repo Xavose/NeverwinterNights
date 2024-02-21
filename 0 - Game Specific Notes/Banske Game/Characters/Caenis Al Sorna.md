@@ -25,8 +25,16 @@ Is continuing his membership with the Flaming Fists
 - Corovaran: 3
   - Previous Rogue Trainer Before Ketta.
   - Taught Caenis how to get caught at the right time.
+- He was the Neverwinter Tactics Champion three years in a row
 
 # Caenis Story Foretold
+
+## Flaming Fist
+
+### Points of Contact
+
+- Sending stone that sends to their version of the CQ.
+  - It's literally always a private
 
 ## End Goal
 
@@ -50,3 +58,19 @@ Is continuing his membership with the Flaming Fists
   - Can be improved through down time
 - Leaving the shadow of his Brother
   - Kaelyk Al Sorna starts sending Caenis letters telling him that he needs to start making a better show of the family name.
+
+# Free Time
+
+### Earn Money / Renown with Neverwinter
+
+Need: 3,500
+
+Roll: Combat Roll
+
+Have: 1550 gp
+
+### Research into Servant of Origin
+
+Put in a request to the College of Candlekeep
+
+- 200 GP charged
