@@ -1,3 +1,26 @@
+## Prior to start
+
+Identify player rolls prior to starting the game
+
+1. Rules lawyer
+2. Quest tracker
+3. Combat Strategist (Take turns)
+
+- Athena comes to pick up Georgie
+
+  - Congratulates Stacia on a job well done handling the turn
+  - Tells Stacia that they plan
+- Quest by Lady Aribeth
+
+  ```
+  Our spy master has brought back reports that the recent prison riots that took place in the Peninsula District might be linked to one of the waterdavian creatures. I am providing you a stone of recall and an written seal to gain access to the peninsula district. 
+  ```
+- Quest by Eltoora Sarptyl
+
+  ```
+  You have done us a great favor in linking the Cloak Tower with the Lab in the Archanist District. We heard that you are heading into the Peninsula district and ask that you do the same.
+  ```
+
 ## Synopsis
 
 After escaping Neverwinter Academy, an **Enlarged Intellect Devourer** fled to the Peninsula district. There it stumbled upon and attacked one of Lady Tanglebrook's servants
@@ -10,12 +33,13 @@ When the character's first enter the peninsula district they see the gate guards
 
 https://www.dndbeyond.com/encounters/1eab924e-4655-4f30-9740-a258ff9b5418
 
-Once the fight is over **Captain****Kalgarat** will thank the party for their timely assistance. He is happy to inform the party of the following facts:
+Once the fight is over **Captain** **Kalgarat** will thank the party for their timely assistance. He is happy to inform the party of the following facts:
 
 - Two nights ago their was a riot in the prison that could be heard within the city streets. After the riot ended, prisoners began taking to the streets in organized raid groups.
-- The raid groups have been taking over various sections of the district. They have holdings in the following locations:
-  - Sewars
-  - The Tanglebrook Estate
+- The players need to find a way to get into the prison and figure out what is going on.
+- The captain also asks them to help investigate either the sewers or the tanglebrook estate
+  - Sewers: The escaped prisoners seem to have created a base of operations there. Captain Kalgarat does not like the smell of it.
+  - Tanglebrook Estate: Reports say that undead creatures are roaming the tangle brook estate, find out what is going on and save lady tanglebrook if possible. She is a linch pinn of the Peninsula District.
 
 Further more, if the escaped sorcerer is allowed ot live and interogated the party can succeed on a DC 15 CHA check to learn the following information.
 
@@ -60,7 +84,32 @@ Turning the corner you see a large wagon turned up on it's side. Attop the wagon
 
 **Marrlon** and his wife **Karla**, were attempting to flea the Peninsula district after the prison break. They brought their servant, **Garrosh** who is currently getting supplies to fix the Wagon.
 
-Their Wagon broke down in the middle of the streets (It was initially salvaged from parts). **Marrlon** will offer the party 50gp if they can track down Garrosh and bring him back with the wagon supplies.
+Their Wagon broke down in the middle of the streets (It was initially salvaged from parts). **Marrlon** will offer the party 50gp if they can track down Garrosh and bring him back with the wagon supplies from **Targod's Wood Wove's**.
+
+### Cult Assassin
+
+https://www.dndbeyond.com/encounters/b367be9c-9c5b-4a1d-b970-29ac52974bdf
+
+```
+Up ahead you see the remnants of a sprawling district market outlined by flickering red and orange light. The thick aroma of cooked meat and char accompanies the scene. The market is a hodgepodge maze of tents, canopies, and stands that alude to a once bustleing town square. But in the wake of the Wailing Death whatever social corner this once was is now abandoned and ransacked. 
+
+Through the maze of tents you can just make out a giant pyre alit by a blaze. The source of the flickering light and ostensibly the cooked meat. 
+
+==========================================================
+
+As you pass by the thicket of tents and stands you hear a creeking noise like the opening of a large hinge.
+
+==========================================================
+
+If the player's inspect the tents they must succeed on a DC 25 Investigation / Perception check or be surprised by the assassin lurking within. 
+```
+
+If the players inspect the assassins corpse they find only a tattered note that says
+
+```
+Follow your adversaries into the Peninsula district and put an end to their efforts. 
+~ SoO
+```
 
 ### Priest of Helm
 
@@ -74,15 +123,25 @@ Paldriar is a fledgling false priest of Helm. He will happily give his blessing 
 
 Use map: SewerTunnels from ChickenPizza
 
+The bandits are digging tunnels under neath Neverwinter Propper to escape and infect the prison district
+
+The bandit leader is controlled by an intelect devourer and can try to inform the party about what it's master is up to if they trap it. 
+
+The bandit leader has a set of keys to the prison gate on him. 
+
 # Tanglebrook Estate
 
 Use chicken pizza map: VampireMansion
+
+The mind flayer infected a twisted and powerful necromancer with one of it's spawn. However, the necromancer managed to weaken the creature just prior to it taking over his mind. As a result, a shard of his mind still remians, though twisted and altered.
+
+In this state the necromancer is completly devoted to the intelect devourer, but still retains his control over undead. He seeks to block off the tunnels that link tanglebrook estate to the prison district. 
 
 # Wizard Lab
 
 Use Chicken pizza map: MonsterGeneologyLab
 
-## Neverwinter Prison
+# Neverwinter Prison
 
 ### Level 1: General Confinement
 

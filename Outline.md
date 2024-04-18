@@ -18,15 +18,11 @@
 
 ## Open Quests
 
-### Get George (new werewolf child) to the Waterdeep Pack. 
+### Get George (new werewolf child) to the Waterdeep Pack.
 
 - Will have to manage his first change (keep him from killing anyone)
   - His parents will want to be there to keep him safe
 - Athena (Female Pack Alpha)
-
-### Phandalin Werewolves
-
-- Still needs to be turned in to the city of Neverwinter to get access to the Neverwinter guard.
 
 ### Find out what happened to Van Richten
 

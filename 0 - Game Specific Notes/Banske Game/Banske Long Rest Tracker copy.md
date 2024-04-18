@@ -21,8 +21,9 @@
       1. 12
          1. Took the Helms Blessing
 2. Update Renown Tracker
-3. Days until full moon: 6
-4. Days until Athena arrives in Neverwinter: 11
+3. Days until full moon: 5
+4. Days until Athena arrives in Neverwinter: 10
+5. Days until prison break: 7
 
 # Wailing Death Rules:
 
