@@ -1,3 +1,5 @@
+When a character gainst inspiration after level 5 they are also rewarded 700 XP.
+
 | **Experience Points** | **Level** | **XP per session** |
 | --------------------------- | --------------- | ------------------------ |
 | **0**                 | **1**     |                          |
