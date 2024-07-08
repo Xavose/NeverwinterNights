@@ -1,25 +1,28 @@
 1. Wailing Death Tracker Update
    1. Abbath
 
-      1. 6
+      1. 7
    2. Gariel
 
-      1. 6
-      2. DC to remove diseas: 6
-   3. Vaelin
-
-      1. 6
+      1. 7
       2. Diseases:
+   3. Hugs
+
+      1. 7
+      2. Diseases:
+         1. You gain a -1 bonus to perception checks that rely on smell
    4. Caenis
 
-      1. 6
+      1. 7
    5. Zenith
 
-      1. 6
+      1. 7
    6. Stacia
 
       1. 12
          1. Took the Helms Blessing
+      2. Diseases:
+         1. You gain a -1 bonus to all wis and cha ability checks.
 2. Update Renown Tracker
 3. Days until full moon: 5
 4. Days until Athena arrives in Neverwinter: 10

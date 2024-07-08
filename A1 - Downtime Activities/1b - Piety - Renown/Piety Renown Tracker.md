@@ -136,3 +136,52 @@ increases	by 1d10 for	each	slot	level	above	3.
 ## Champion of Nature
 
 *Piety 50+ Gaia Trait*
+
+# Piety to Helm
+
+## Helm's Devotee
+
+*Piety 3+ Gaia Trait*
+
+Gai grants you protection against harm from the forces found on her surface. You can cast the Absorb Elements spell once with this feature. Once you do you must finish a long rest before doing so again.
+
+## Helm's Votary
+
+*Piety 10+ Gaia Trait*
+
+Gai sends the spirits of her denizen's to protect you. You learn the Conjure Animals spell from Playtest 8 as outlined below.
+
+CONJURE	ANIMALS
+Level	3	Conjuration	(Druid,	Ranger)
+Casting	Time: Action
+Range:	60	feet
+Components: V,	S
+Duration: Concentration,	up	to	10	minutes
+You	summon	nature	spirits that	take	the	form	of
+a Large swarm	of	spectral	animals in	an
+unoccupied	space	that	you	can	see	within	range.
+The	swarm	lasts	for	the	duration,	and	you
+choose	the	animal	form	of	the	spirits,	such	as
+wolves,	serpents,	or	birds.
+When	a	creature	hostile	to	you	enters	a	space
+within 10	feet	of	the swarm	for	the	first	time	on
+a	turn or	starts	its	turn	there,	you	can	make	a
+melee	spell	attack	against	that	creature. On	a	hit,
+the	target	takes	Radiant	damage	equal	to	2d10
+plus	your	spellcasting	ability	modifier.
+You	have	Advantage	on	Strength	saving
+throws while	you’re	within	10	feet	of	the	swarm,
+and	when	you	Move on	your	turn,	you	can	also
+move	the	swarm up	to	30	feet	to	an	unoccupied
+space	you	can	see.
+At	Higher	Levels. When	you	cast	this	spell
+using	a	spell	slot	of	level	4 or	higher,	the	damage
+increases	by 1d10 for	each	slot	level	above	3.
+
+## Helm's Disciple
+
+*Piety 25+ HelmTrait*
+
+## Champion of Vigilance
+
+*Piety 50+ HelmTrait*

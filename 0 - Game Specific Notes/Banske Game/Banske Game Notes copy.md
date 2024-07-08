@@ -1,19 +1,28 @@
 # Notes
 
-- The party has just gone through a Door while connecting the cloak tower to the wizard lab in the arcanist quarter.
-  - Do A Door thing
-  - Depending on how long the party stays in A Door the pheonix outside will either
-    - Roll D100
-    - < 30 Flies through the portal and attacks the cloak tower.
-      - Kills 1d6 mages before dying.
-    - < 60 Consumes the portal magic
-    - < 90 gets dealt with by the Cloak Tower
-      - Kills 1d3 mages
-    - < 100 flies into A Door and gets flyswatted
-- The change of Georgie
-  - Stacia, georgie, and whoever else she brings are teleported inside the cloak tower and shown various rooms to choose from to handle Georgie's transformation.
-  - During Georgie's transformation the spirit of the Loup Garou has infected his wolf's spirit
-    - Stacia must intimidate, fight off, or distract the Loup Garou spirit. If she does not either destroy it or get it to submit it will take over Georgie's soul and turn him into a servant of the Creator Race.
+- The party is in a ritual chamber having just defeated cultists of origin
+  - The party interupted the ritual and have become soul touched
+    - Their souls are connected to Morag's
+    - They are able to syphon the souls from recently dead corpses
+      - Condems the soul to an eternity of imprisonment
+      - Allows them to tap into soul powers later on.
+  - The party allowed one of the cultists to live
+    - Interrogation
+      - Explain what the ritual was for
+      - Explain what their next task was going to be.
+        - Enter Castle Never to track down the Waterdavian creature therin
+- Return to City Core
+  - Turn in of Waterdavian Creature
+    - Reward:
+      - Holdings within the city of Neverwinter
+      - 3 Renown with the City of Neverwinter
+      - 2000 GP
+  - What they learned about the Cult
+    - Lady Aribeth Informs Lord Nasher who asks to speak with Zenith
+      - Wants Zenith to bring back the Crown of Lord Never so that he can use it's power to forge a new Neverwinter Nine
+  - Gathering of Factions
+  - Down Time Activities
+  - Gathering Information
 
 # Current Quests
 

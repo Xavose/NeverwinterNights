@@ -10,6 +10,14 @@ Desires:
   - Find the **Golden Skins of the World Serpent** (Netherese Scrolls)
   - Use the skins to open a portal to
 
+Titles:
+
+    Queen of the Old Ones
+
+    The Original
+
+    The Creator
+
 # Protagonists
 
 ## Haedraline - Leader of the World Slaves
