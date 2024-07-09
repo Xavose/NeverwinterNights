@@ -4,7 +4,7 @@ The cult of origin has tracked the shadow dragon Nurvureem to Castle Never. They
 
 # Quest
 
-Enter Castle Never and track down the shadow dragon to return with a heart of shadow. 
+Enter Castle Never and track down the shadow dragon to return with a heart of shadow.
 
 # Reward
 
@@ -23,7 +23,7 @@ Conditional Rewards
 
 ## Nurvureem (Dark Lady) Shadow Dragon
 
-Since her escape, Nurvureem has taken root in the highest towers of Castle Never. There, she wages a war against the haunting souls of Lord Haleuth Never's court. 
+Since her escape, Nurvureem has taken root in the highest towers of Castle Never. There, she wages a war against the haunting souls of Lord Haleuth Never's court.
 
 ### Motivations
 
@@ -39,7 +39,7 @@ Entrapped by the very swords put in place to guard against grave robbers, the sp
 
 #### Motivation
 
-Lord Never wishes freedom from his tomb and even more freedom for the spirits of his court. Should the players achieve this, Lord Never will bestow upon them the Crown of Neverwinter in thanks. 
+Lord Never wishes freedom from his tomb and even more freedom for the spirits of his court. Should the players achieve this, Lord Never will bestow upon them the Crown of Neverwinter in thanks.
 
 ### Alfador
 
@@ -47,7 +47,7 @@ The chief advisor to Lord Never, Alfador rules over the court spirits through th
 
 #### Motivations
 
-In the absence of Lord Never, Alfador has become mad with power. He seeks to retain his power at all costs. Through deception and deceipt, Alfador has taken over the Never Court, claiming to only be passing on the orders of Lord Never, when in reality he simply clings to power. 
+In the absence of Lord Never, Alfador has become mad with power. He seeks to retain his power at all costs. Through deception and deceipt, Alfador has taken over the Never Court, claiming to only be passing on the orders of Lord Never, when in reality he simply clings to power.
 
 If prompted, Alfador will refuse to hand over the shadow eggs.
 
@@ -81,37 +81,43 @@ The only who remembers the promise left unfulfilled.
 
 A sect of the children of origin seeks to turn the situation within Castle Never towards the destruction of Neverwinter. Equipped with a soul syphon, they plan to use its trapped power to suade either the eternal court or Nurvureem towards their destructive cause.
 
-By the time the character's have entered Caste Never, the children of origin have already set up a base of operations theirin. 
+By the time the character's have entered Caste Never, the children of origin have already set up a base of operations theirin.
 
-However the characters choose to handle the denizens of Castle Never, the Children of Origin will try to disrupt their plans. 
+However the characters choose to handle the denizens of Castle Never, the Children of Origin will try to disrupt their plans.
 
 ### Desther
 
-The servant of origin has been ordered to accompany the party into Castle Never and aid them in anyway he can. 
+The servant of origin has been ordered to accompany the party into Castle Never and aid them in anyway he can.
 
-Durring his time in their service, Desther will aid their quest in any way he can. However, Desther will feed his agents on the player's whereabouts and opetations within the Castle so that the Children of Origin can set up ambushes and disruptions. 
+Durring his time in their service, Desther will aid their quest in any way he can. However, Desther will feed his agents on the player's whereabouts and opetations within the Castle so that the Children of Origin can set up ambushes and disruptions.
 
 ## Other Noteable Denizens
 
+### The Axe of Unbridled Knowledge
+
+The Axe of Unbridled Knowledge was brought into Castle Never by a Purple Dragon Knight named Sir Galvahad. The Axe lead him to Castle Never to warn it's denizens of the Castle's impending destruction. However, the duo was too late in warning the castle lord at the time. The subsequent destruction killed Sir Galvahad and burried the Axe of Unbridled knowledge with him. 
+
+When the shadow dragon eggs activated and began raising the spirits of the undead, The corpse of Sir Galvahad and his fellow kights were animated as well. The Axe hopes to leave the posession of Sir Galvahad's new form, finding this companion rather boring in his undead state. Doing so requires that the undead Sir Galvahad be defeated in battle, and the Axe's new owner attune to it. 
+
 ### Old Man Bellows
 
-The soul living inhabitant of Caste Never, Old Man Bellows is the last in a long line of grounds keepers. His survival in the haunted palace to this point is thanks to his lineage. The spirits of Castle Never can sense Bellow's connection to his ancestors and treat him as they did the previous grounds keepers. 
+The soul living inhabitant of Caste Never, Old Man Bellows is the last in a long line of grounds keepers. His survival in the haunted palace to this point is thanks to his lineage. The spirits of Castle Never can sense Bellow's connection to his ancestors and treat him as they did the previous grounds keepers.
 
-Old Man Bellows knows the castle grounds better than anyone else. He can tell the players the best way to get from place to place, as well as what creatures they might encounter along the way. Should the party be willing to pay him handsomly, Bellows can even act as their guide through the castle. 
+Old Man Bellows knows the castle grounds better than anyone else. He can tell the players the best way to get from place to place, as well as what creatures they might encounter along the way. Should the party be willing to pay him handsomly, Bellows can even act as their guide through the castle.
 
-Should the party take a liking to Bellows, either of the main factions within the castle might take him hostage. Nurvureem and the Children of Origin might take him hostage to gain leverage over the Never Court. While the Never Court might take him hostage to prevent said leverage. In either case, Old Man Bellows is treated with the utmost respect suring his captivity, as none of the groups are truly willing to risk the Courts wrath should something happen to him. 
+Should the party take a liking to Bellows, either of the main factions within the castle might take him hostage. Nurvureem and the Children of Origin might take him hostage to gain leverage over the Never Court. While the Never Court might take him hostage to prevent said leverage. In either case, Old Man Bellows is treated with the utmost respect suring his captivity, as none of the groups are truly willing to risk the Courts wrath should something happen to him.
 
 ### Peter the Poltregeist
 
-Peter was the court jester in service to Lord Never. Now that his lord is captured and Alfador prevents him from seeing his master, Peter prefers to torment the denizens of the castle whenever possible. 
+Peter was the court jester in service to Lord Never. Now that his lord is captured and Alfador prevents him from seeing his master, Peter prefers to torment the denizens of the castle whenever possible.
 
-Should the party rescue lord Never, Peter will be forever greatful. However, Peter has no sense of planning, and cannot think to ask the party for this favor himself. The party might learn of his wants from speaking to other members of the Never Court abouyt the Poltregeist. 
+Should the party rescue lord Never, Peter will be forever greatful. However, Peter has no sense of planning, and cannot think to ask the party for this favor himself. The party might learn of his wants from speaking to other members of the Never Court abouyt the Poltregeist.
 
 ### Guardians of the Castle
 
-Many of the suits of armor and weapons within Castle Never were enchanted to fend off intruders. But just like the swords protecting Lord Never, they cannot discern the identity of their spiritual masters. As such, these weapons and armor are prone to attack any beings they detect within Castle Never until someone takes their place as the rightful king of Castle Never. Doing this requires a person to sit upon the throne while wearing the Crown of Neverwinter and the Scepter of Neverwinter. 
+Many of the suits of armor and weapons within Castle Never were enchanted to fend off intruders. But just like the swords protecting Lord Never, they cannot discern the identity of their spiritual masters. As such, these weapons and armor are prone to attack any beings they detect within Castle Never until someone takes their place as the rightful king of Castle Never. Doing this requires a person to sit upon the throne while wearing the Crown of Neverwinter and the Scepter of Neverwinter.
 
-### Spiders, Bats, and Rats oh my. 
+### Spiders, Bats, and Rats oh my.
 
 # Rooms of Note
 

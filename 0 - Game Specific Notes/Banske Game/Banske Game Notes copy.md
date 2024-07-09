@@ -1,34 +1,22 @@
 # Notes
 
-- The party is in a ritual chamber having just defeated cultists of origin
-  - The party interupted the ritual and have become soul touched
-    - Their souls are connected to Morag's
-    - They are able to syphon the souls from recently dead corpses
-      - Condems the soul to an eternity of imprisonment
-      - Allows them to tap into soul powers later on.
-  - The party allowed one of the cultists to live
-    - Interrogation
-      - Explain what the ritual was for
-      - Explain what their next task was going to be.
-        - Enter Castle Never to track down the Waterdavian creature therin
-- Return to City Core
-  - Turn in of Waterdavian Creature
-    - Reward:
-      - Holdings within the city of Neverwinter
-      - 3 Renown with the City of Neverwinter
-      - 2000 GP
-  - What they learned about the Cult
-    - Lady Aribeth Informs Lord Nasher who asks to speak with Zenith
-      - Wants Zenith to bring back the Crown of Lord Never so that he can use it's power to forge a new Neverwinter Nine
-  - Gathering of Factions
-  - Down Time Activities
-  - Gathering Information
+After several days spent 
 
 # Current Quests
 
-- Investigate the Warewolves attacking Phandalin
-  - Bring proof of as many warewolf kills as possible
-  - Return as many stollen kids as possible.
+- Figure out who is behind the attacks on Neverwinter
+  - A mysterious group known only as the Children of Origin appear to be orchestrating a plot against the City of Neverwinter.
+  - Figure out who or what these Children of Origin are and their plans
+  - Report all findings to Spy Master Arron Gend
+- Find a cure to the Wailing Death
+  - 5 years ago a plague sprouted
+- Retrieve a Heart of Shadow
+  - The Shadow Dragon Nurvureem has escaped Neverwinter Academy and taken roost in Castle Never.
+  - Go into Castle Never, and retrieve the Shadow Dragon's heart for use in the Cure for the Wailing Death
+- Retrieve the Crown of Neverwinter
+  - During the founding of Neverwinter, Lord Haleuth Never used the power of the Crown to bond Nine knights together to form the Neverwinter Nine.
+  - When the castle was destroyed in the eruption of Mount Hotenow the crown was lost forever.
+  - Delve into the castle and retrieve the crown.
 
 # Possible Quests
 
