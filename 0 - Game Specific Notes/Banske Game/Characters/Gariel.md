@@ -28,7 +28,7 @@ Nearly all of the power that remains from Helm now rests within Gariel. Much of 
 
 ### Cyric God of Deception
 
-Cyric's original involvement in this plot was founded in the Trickster's desire to steal Helm's power. When Helm realized his demise was imminant he sequestered that power away by creating a Divine Soul within Gariel. That power is now bonded to Gariel and can only be fully released once Gariel has fully accepted his power.
+Cyric's original involvement in this plot was founded in the Trickster's desire to steal Helm's power. When Helm realized his demise was imminant he sequestered that power away within Tyr. That power is now bonded to Tyr and can only be fully released once Tyr chooses to release it.
 
 Cyric now waits in the shadows for the moment where he can strike and take Helm's power for himself. In the meantime, he has taken Helm's place in most of the Protector God's area's of worship. In these cases, he creates false and twisted protection for those who offer worship.
 
@@ -47,3 +47,25 @@ If Cyric does get his hands on Helm's portfolio he plans to
 ## Talk to Desther
 
 - Have his acholytes look into what is goin on in the hold.
+
+# Dreams
+
+## You are on a Path
+
+You are on a road. One path leads to skys of grey, another leads to sky's of blue, one path more still leads to sky's of gold. Which path will you choose.
+
+### The grey path
+
+Two figures stand in the path. One an elderly man with beard of grey and a severed hand, the other cloaked in shadows of black. The cloaked figure holds an orb
+
+The orb shows vissions of a heavily armored man with golden gauntlets holding hands with a fair red headed maiden. 
+
+As the grey haired man looks upon the orb, his eyes fill with rage
+
+### The blue bath
+
+Two figures stand in the path. One armored with golden gauntlets, the other an elderly man with beard of gret and a severed hand. The two stand arguing, their voices muted but gestures loud. The Grey haried man rages, the armored man placates. A sword appears, the grey haired man strikes down the armored one. As he dies, golden light leaves the armored man and flows into the grey haired one. 
+
+### The gold path
+
+A figure lies in the path. Armor broken and golden gauntlets cracked. Behind the lying armor are shadows and clouds of grey. As you approach the armor quakes, but does not stir. A raspy voice spills forth "I guard this path! Do not approach. This way is forbidden".
