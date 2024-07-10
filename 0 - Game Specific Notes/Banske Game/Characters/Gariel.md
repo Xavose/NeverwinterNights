@@ -69,3 +69,11 @@ Two figures stand in the path. One armored with golden gauntlets, the other an e
 ### The gold path
 
 A figure lies in the path. Armor broken and golden gauntlets cracked. Behind the lying armor are shadows and clouds of grey. As you approach the armor quakes, but does not stir. A raspy voice spills forth "I guard this path! Do not approach. This way is forbidden".
+
+### Meaning
+
+These dreams show the cause of Helm's death, a misunderstaning between Him and the God Tyr that Helm was trying to steal Tyr's wife Tymora.
+
+The blue path show Helm's death, and that his power flowed into Tyr, where it remains dormant until the God chooses to release it.
+
+The gold path shows Helm standing guard even in his death against the darkness that orchestrated his death.
