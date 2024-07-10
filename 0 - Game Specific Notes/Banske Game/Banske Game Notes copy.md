@@ -1,6 +1,16 @@
 # Notes
 
-After several days spent 
+After fighting through the prison break to retrieve the brain of an intelect devourer, the party has earned a well deserved break. 
+
+Well deserved Break
+
+- Introduction to Ashbone Manor
+  - Castle
+  - Selecting Rooms
+- Mike Character Creation
+- Bastion Actions
+  - Catch Up actions. 7 Actions per level since level 5. Plus 1 more.
+- Bastion floorplan and layout
 
 # Current Quests
 
