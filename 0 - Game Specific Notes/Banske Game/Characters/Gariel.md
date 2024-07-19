@@ -2,6 +2,10 @@ My mother, **Helen**, was a human cleric of Helm and a member of the Watchers ov
 
 I came to Neverwinter in the hope of honoring Helm while outrunning the stings of my lineage. I secretly hope that one day I may gain Helm's favor and be allowed into his direct service as a full powered angel. I do my best to stay out of the spotlight directly. I look human in appearance with blonde hair and blue eyes. I wear large flowing robes with a large hood that hangs down over my back to disguise and cover the feathered wings that remain tightly pressed to my back.
 
+# The Truth
+
+In truth, Gariel is no son of Selephon, but rather the son of Helm himself. 
+
 # Rebuilding Helm
 
 ## Worship of a dead god
@@ -58,13 +62,13 @@ You are on a road. One path leads to skys of grey, another leads to sky's of blu
 
 Two figures stand in the path. One an elderly man with beard of grey and a severed hand, the other cloaked in shadows of black. The cloaked figure holds an orb
 
-The orb shows vissions of a heavily armored man with golden gauntlets holding hands with a fair red headed maiden. 
+The orb shows vissions of a heavily armored man with golden gauntlets holding hands with a fair red headed maiden.
 
 As the grey haired man looks upon the orb, his eyes fill with rage
 
 ### The blue bath
 
-Two figures stand in the path. One armored with golden gauntlets, the other an elderly man with beard of gret and a severed hand. The two stand arguing, their voices muted but gestures loud. The Grey haried man rages, the armored man placates. A sword appears, the grey haired man strikes down the armored one. As he dies, golden light leaves the armored man and flows into the grey haired one. 
+Two figures stand in the path. One armored with golden gauntlets, the other an elderly man with beard of gret and a severed hand. The two stand arguing, their voices muted but gestures loud. The Grey haried man rages, the armored man placates. A sword appears, the grey haired man strikes down the armored one. As he dies, golden light leaves the armored man and flows into the grey haired one.
 
 ### The gold path
 
