@@ -81,3 +81,17 @@ Tyrin offers to act as the Party's captain of the guard, but makes it clear that
 * Roran
   * Still mad at Eragon
   * Not great at smithing, but great at hitting people with a hammer
+
+## Budwald
+
+### Arcane Study
+
+### Library
+
+# Bastion Tracking
+
+## Defenders
+12
+
+## Armory Stock
+Yes

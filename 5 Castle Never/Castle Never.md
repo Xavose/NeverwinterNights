@@ -27,7 +27,46 @@ Since her escape, Nurvureem has taken root in the highest towers of Castle Never
 
 ### Motivations
 
-Nurvureem wants the shadow dragon eggs that are keeping the spirits of Lord Never's court bound to this world. Should the players help retrieve these eggs, Nurvureem will reward them with a shadow heart from one of his servants as well as the ring of scarlet shadows. Warning the players to not allow the spirit trapped inside to escape.
+Nurvureem wants the treasure, bones, and spirits that reside within Castle Never so that he can turn the castle into his new base of power. He has little regard for the denizens of Neverwinter, after all, a lion does not mind the ants that burrow outside its cave. 
+
+### Minions
+Nurvureem controls many raised shadows as well as two lieutenants.
+
+#### Nardor (The Apprentice)
+Nardor is a young black dragon on it's way to becoming a shadow dragon. Nurvureem is teaching him dark secrets in exchange for his services taking over Castle Never
+
+#### Ursa (The Flesh Offering)
+Ursa is a Goblin Wizard skilled in the arts of conjuration. Ursa has been summoning creatures from outside the castle as sacrifices for Nurvureem to user her breath weapon on. Once Nurvureem uses her breath weapon on these creatures, they rise as shadows under her controll.
+
+# Legion of Bone
+
+## Sofina (Red wizard and Necromancer Extrordinair)
+
+Sofina is in service to her master **Szass Tam** a powerful archmage and the Zulkir of Necromancy. 
+
+Szass has sent Sofina to keep an eye on Neverwinter having learned that Mogrim and the rest of the Arcane Brotherhood have plans for the city.
+
+Since Nurvureem took root in the Neverspire, Sofina has been waging a silent war against the drake in hopes that she can use it's powers to further her masters plans.
+
+### Motivations
+Sofina seeks to control the castle so that her master can use it as a base of operations.
+- Rid the castle of Nurvureem
+- Claim the Scepter of Neverwinter to gain control over the Castle Guardians. 
+
+### Minions
+Sofina has a veritable army of undead at her disposal thanks to the Libram of Souls and Flesh left to her by her master
+
+#### Deathlock Mastermind
+The deathlock mastermind and its deathlocks are pacted to Szass but have been sworn in service to Sofina. Still the mastermind views Sofina as more of a rival than a master, and will turn on her the first chance it gets
+
+#### Deathlocks
+
+#### Skeletons
+
+#### Zombies
+
+### Plan
+Sofina plans to us the Libram of Souls and Flesh to cast Summon Undead at 9th level and have the creature aid her in a battle against Nurvureem.
 
 ## The Court of Lord Never
 
@@ -40,16 +79,6 @@ Entrapped by the very swords put in place to guard against grave robbers, the sp
 #### Motivation
 
 Lord Never wishes freedom from his tomb and even more freedom for the spirits of his court. Should the players achieve this, Lord Never will bestow upon them the Crown of Neverwinter in thanks.
-
-### Alfador
-
-The chief advisor to Lord Never, Alfador rules over the court spirits through the imprisonment of his lord
-
-#### Motivations
-
-In the absence of Lord Never, Alfador has become mad with power. He seeks to retain his power at all costs. Through deception and deceipt, Alfador has taken over the Never Court, claiming to only be passing on the orders of Lord Never, when in reality he simply clings to power.
-
-If prompted, Alfador will refuse to hand over the shadow eggs.
 
 ### The Neverwinter Nine
 
