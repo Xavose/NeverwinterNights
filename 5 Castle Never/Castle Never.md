@@ -27,45 +27,60 @@ Since her escape, Nurvureem has taken root in the highest towers of Castle Never
 
 ### Motivations
 
-Nurvureem wants the treasure, bones, and spirits that reside within Castle Never so that he can turn the castle into his new base of power. He has little regard for the denizens of Neverwinter, after all, a lion does not mind the ants that burrow outside its cave. 
+Nurvureem wants the treasure, bones, and spirits that reside within Castle Never so that she can turn the castle into her new base of power. She has little regard for the denizens of Neverwinter, after all, a lion does not mind the ants that burrow outside its cave.
+
+If the party wants to side with Nurvureem she will require they complete the following Objectives: 
+
+- Bring her the treasure locked inside the vaults on the second floor (R23)
+  - The chests are trapped with powerful magic
+- Bring her old man bellows so that she can use him to gain greater controll over the castle
+- Rid the Noble Spyre and Arcanist Spyre of their pests
 
 ### Minions
+
 Nurvureem controls many raised shadows as well as two lieutenants.
 
 #### Nardor (The Apprentice)
+
 Nardor is a young black dragon on it's way to becoming a shadow dragon. Nurvureem is teaching him dark secrets in exchange for his services taking over Castle Never
 
 #### Ursa (The Flesh Offering)
+
 Ursa is a Goblin Wizard skilled in the arts of conjuration. Ursa has been summoning creatures from outside the castle as sacrifices for Nurvureem to user her breath weapon on. Once Nurvureem uses her breath weapon on these creatures, they rise as shadows under her controll.
 
-# Legion of Bone
+## Legion of Bone
 
-## Sofina (Red wizard and Necromancer Extrordinair)
+### Sofina (Red wizard and Necromancer Extrordinair)
 
-Sofina is in service to her master **Szass Tam** a powerful archmage and the Zulkir of Necromancy. 
+Sofina is in service to her master **Szass Tam** a powerful archmage and the Zulkir of Necromancy.
 
 Szass has sent Sofina to keep an eye on Neverwinter having learned that Mogrim and the rest of the Arcane Brotherhood have plans for the city.
 
 Since Nurvureem took root in the Neverspire, Sofina has been waging a silent war against the drake in hopes that she can use it's powers to further her masters plans.
 
-### Motivations
-Sofina seeks to control the castle so that her master can use it as a base of operations.
-- Rid the castle of Nurvureem
-- Claim the Scepter of Neverwinter to gain control over the Castle Guardians. 
+#### Motivations
 
-### Minions
+Sofina seeks to control the castle so that her master can use it as a base of operations.
+
+- Rid the castle of Nurvureem
+- Claim the Scepter of Neverwinter to gain control over the Castle Guardians.
+
+#### Minions
+
 Sofina has a veritable army of undead at her disposal thanks to the Libram of Souls and Flesh left to her by her master
 
-#### Deathlock Mastermind
+##### Deathlock Mastermind
+
 The deathlock mastermind and its deathlocks are pacted to Szass but have been sworn in service to Sofina. Still the mastermind views Sofina as more of a rival than a master, and will turn on her the first chance it gets
 
-#### Deathlocks
+##### Deathlocks
 
-#### Skeletons
+##### Skeletons
 
-#### Zombies
+##### Zombies
 
-### Plan
+#### Plan
+
 Sofina plans to us the Libram of Souls and Flesh to cast Summon Undead at 9th level and have the creature aid her in a battle against Nurvureem.
 
 ## The Court of Lord Never
@@ -122,11 +137,15 @@ Durring his time in their service, Desther will aid their quest in any way he ca
 
 ## Other Noteable Denizens
 
+### Large Luigi
+
+This rather benevolent beholder once ruled the castle floors, until Nurvureem and The Necromancer arrived. Now, Large Luigi holds out in one of the collapsed towers, biding his time to escape. 
+
 ### The Axe of Unbridled Knowledge
 
-The Axe of Unbridled Knowledge was brought into Castle Never by a Purple Dragon Knight named Sir Galvahad. The Axe lead him to Castle Never to warn it's denizens of the Castle's impending destruction. However, the duo was too late in warning the castle lord at the time. The subsequent destruction killed Sir Galvahad and burried the Axe of Unbridled knowledge with him. 
+The Axe of Unbridled Knowledge was brought into Castle Never by a Purple Dragon Knight named Sir Galvahad. The Axe lead him to Castle Never to warn it's denizens of the Castle's impending destruction. However, the duo was too late in warning the castle lord at the time. The subsequent destruction killed Sir Galvahad and burried the Axe of Unbridled knowledge with him.
 
-When the shadow dragon eggs activated and began raising the spirits of the undead, The corpse of Sir Galvahad and his fellow kights were animated as well. The Axe hopes to leave the posession of Sir Galvahad's new form, finding this companion rather boring in his undead state. Doing so requires that the undead Sir Galvahad be defeated in battle, and the Axe's new owner attune to it. 
+When the shadow dragon eggs activated and began raising the spirits of the undead, The corpse of Sir Galvahad and his fellow kights were animated as well. The Axe hopes to leave the posession of Sir Galvahad's new form, finding this companion rather boring in his undead state. Doing so requires that the undead Sir Galvahad be defeated in battle, and the Axe's new owner attune to it.
 
 ### Old Man Bellows
 
@@ -183,3 +202,490 @@ The [Neverwinter Nine](https://forgottenrealms.fandom.com/wiki/Neverwinter_Nine 
 #### The Holes
 
 As Castle Never was cleared and came back into use in the late 15^th^ century DR, a section beneath the ruins was dedicated as a prison for criminals sentenced to death for high crimes, including murder and treason (including tax evasion). This dungeon—which came to be known as the "holes"—was heavily guarded and held mass executions once each [tenday](https://forgottenrealms.fandom.com/wiki/Tenday "Tenday"), in which the condemned were publicly hanged. Prisoners were allowed a last meal delivered by friends and family on the day before their deaths, but otherwise anyone caught entering the holes was sentenced to imprisonment in them as well. The prison was only accessible through a single, heavily-guarded entrance located on the main level of the castle, although rumors persisted of a monster-infested secret tunnel that connected the holes to the shore of the [Blacklake](https://forgottenrealms.fandom.com/wiki/Blacklake "Blacklake").^[[4]](https://forgottenrealms.fandom.com/wiki/Castle_Never#cite_note-AI-p121-4)^
+
+# Castle Floors and Rooms
+
+## Main Floor
+
+### R112: Stables
+
+- Events:
+  - The stables have a secret entrance to room 201 on the floor above
+    - DC 15 Investigation check
+
+## Second Floor
+
+The Shadow Dragon Nurvureem uses the Second Floor as a buffer floor to the rest of her domain. Prior to the shadow dragon and necromancer's arrival, this floor was controlled by the Beholder Large Luigi, who now holds up at the bottom of a collapsing tower. 
+
+### R21: The Throne Room
+
+- Creatures
+  - Iron Golem: Floor Guardian
+  - Jackles the Poltregeist: Previous court jester
+- Items
+  - The Throne of Neverwinter: 5000gp
+  - 300 Gp in jewels (afixed to the throne)
+- Events
+  - Possible portal location
+  - Jackles the trickster
+    - Any player who attempts to sit on the throne will be thrown by the pultegeist DC 17 STR check
+
+### R22: Coat Closet
+
+- Creatures: None
+- Items:
+  - 10GP in abandoned coats
+  - Cloak of billowing
+- Events:
+  - None
+
+### R23: The Kings Treasury
+
+- Creatures:
+  - 2x mimics
+  - 2x Shadows
+- Items:
+  - Chest 1: 6000 GP, 1500 PP
+  - Chest 2: 8000 GP, 1400 PP
+  - Chest 3: Tome of Clear Thought, Shield +3, Manual of Bodily Health
+  - Chest 4: Mimic
+  - Chest 5: 13x500 GP gems, Spell Scroll of Blurr, Potion of Fire Breath, Wand of Secrets, Potion of Resistance, 10x +1 Arrows
+  - Chest 6: Chest of Holding
+
+    - Plus One Shortsword
+    - Alchemist's supplies
+    - Bag of Holding
+    - Bracers of Archery
+    - Case, Crossbow Bolt
+    - Chest (Large)
+    - Citrine
+    - Clothes, common
+    - Hourglass
+    - Mariner's Chain mail
+    - Nine Lives Stealer Scimitar (Fully Charged)
+    - Peridot
+    - Ring mail Armor of Resistance (Acid)
+    - Scroll of Barkskin
+    - Scroll of Blade Ward
+    - Scroll of Bless
+    - Scroll of Blight
+    - Scroll of Charm Monster
+    - Scroll of Disguise Self
+    - Scroll of Disguise Self
+    - Scroll of Drawmij’s Instant Summons
+    - Scroll of Enhance Ability
+    - Scroll of Faerie Fire
+    - Scroll of Faerie Fire
+    - Scroll of Sanctuary
+    - Scroll of Shield
+    - Scroll of Toll the Dead
+    - Scroll of True Strike
+    - Sling bullets (20)
+    - Star Ruby
+    - Tinderbox
+    - Vicious Sickle
+  - Chest 7 Mimic
+- Events
+  - Each chest requires a DC 20 check to either pick or break open
+  - Each chest is trapped with a death curse
+    - DC 20 Dexterity Saving Throw
+    - 10D10 necrotic damage on a failed save
+    - Can be dispelled by a Dispell Magic spell cast at 6th level
+  - If the players have a positive reputation with Nurvureem then she will warn them of the Chests Traps
+    - Nurvureem will reward the players for the contents of these chests to add to her hoard
+
+### R24: Long Hallway
+
+### R25: Hall of Mirrors
+
+- Creatures
+
+  - Each player's dopleganger
+  - Talinar the trapped soul
+    - Trapped inside the hall of mirros when a noble lady caught him spying on her
+- Treasure
+
+  - Hidden within the mirrors
+    - 6000 GP
+    - 600 PP
+  - From Talinar
+    - Ring of Xray Vision
+- Events
+
+  - Save the trapped soul
+    - Talinar was a noble within the Lord Never's court. If the party finds a way to free him he can reward them with a magic ring handed down from his family
+  - Possible Portal Location
+
+### R26: Storage Room
+
+### R27: Wine Cellar
+
+- Creatures: None
+- Treasure:
+  - If the characters succeed on a DC perception check they can determine the value of wine in each of the barrels
+  - Barrel 1:
+    - DC 5
+    - Molded Ale (80 Bottles)
+    - 1 GP per Bottle to the right alchemist
+  - Barrel 2:
+    - DC 10
+    - Elven Wine (80 bottles)
+    - 50 GP per bottle
+  - Barrel 3:
+    - DC 15:
+    - Dragon Fire Spirits (50 Bottles)
+    - 150 GP per bottle
+  - Barrel 4:
+    - DC 20:
+    - Celestial Mead(10 Bottles)
+    - 1000 GP per bottle
+  - Barrel 5:
+    - DC 18:
+      - On a failed save, the character will be charmed by the next creature they speak with until they finish a long rest
+    - Succubus Liqour (3 Bottles)
+    - 500 GP per bottle
+
+### R28: Stairs to Royal Quarters
+
+- Creatures: 2x Shadows
+- Items: None
+- Events:
+  - If any creature atempts to climb these stairs without Nurvureem's express permission she will take one of her lair actions against them.
+
+### R29: Old Man Bellows Abode
+
+- Creatures: Old Man Bellows
+- Items: None
+- Events:
+  - The Party can discover that since old Man Bellows is a descendent of the original castle caretakers, he has some lenience and sway with the Castle Defenders.
+  - Old Man Bellows can tell the party about almost every nook and cranny in the castle
+  - Nurvureem would like Old Man bellows brought to her allive, so that she can use his knowledge of the caste to garner more treasure.
+  - If the party gainst Old Man Bellows' trust, he will ask them to rid the castle of both Nurvureem and Lady Sofina and will inform the Party on both party's darker intents
+    - Lady Sofina serves **Szass Tam** a powerful archmage and the Zulkir of Necromancy
+      - Bellows' overheard that one of Szass Tam's colleugues and rivals has taken a significant intrest in Neverwinter over the past years. Szass Tam seeks to controll Castle Never and use it as a base of operations to foil this Nemesis's plans and use the city for his own nefarious gains.
+    - Nurvureem has no immediate plans for Neverwinter, but the Shadow Dragon is an old enemy of lord Haleuth Never
+      - Bellows overheard Nurvureem's minions talk about her plans to destroy all of Lord Never's legacy on the sword coast.
+
+### R201: Small Armory
+
+- Creatures:
+  - 2x Animated Armor
+  - 2x Flying Swords
+- Items: None
+- Events: If the party seems hostile to Old Man Bellows, he will dart inside the armory and use the Animated defenders to escape out a servants hatch
+  - DC 20 perception check to discover the hatch
+  - Leads down to area 112, the stables. From there, Old man bellows will continue to use the castle defenders to evade the party.
+
+### R202: Armory of the High Guard
+
+- Creatures:
+  - 7x Flying Swords
+  - 6x Animated Armor
+- Items:
+  - +1 Magic Weapons (Long Swords, Short Swords, Daggers, Light Crossbows, Heavy Crossbows, Spears)
+  - +1 Magic Shields
+  - +1 Medium Armor of all types
+- Events: None
+
+### R203: High Guard Storage
+
+- Creatures:
+
+  - Rust Monster
+- Items:
+
+  - 15x Potions of Healing
+  - 5x Potions of Greater Healing
+  - 3x Potions of Hill Giant Strength
+  - 1x Potion of Speed
+- Events
+
+  - The rust monster attacks the first player it sees wearing or carying non magical weapons or armor
+
+### R204: Nobles Tower: Storage Level
+
+In this room, the long forgotten nobles stored their finest robes and jewls
+
+- Creatures:
+  - 4x Shadows
+  - 1x Spider Dragon
+- Treasure:
+  - Plate Armor of Gleaming
+  - Halfplate of Gleaming
+  - Breast Plate of Gleaming
+  - Cast off Plate Armor
+  - Cast off Halfplate
+  - Cast of Breast plate
+  - Cloak of Billowing
+  - Clockwork Amulet
+  - Royal Clothes of Mending (100 GP per outfit)
+  - Ear Horn of Hearing
+  - Erstz Eyes
+  - Moon Touched Rapiers
+  - Moon Touched Daggers
+  - Mastery Key x5
+  - Orb of Direction
+  - Orb of Time
+  - Purse of Holding (Like a bag of holding but only a purse mouth)
+  - Smoldering Armor
+  - Tankards of Sobriety
+  - Veteran's Cane
+- Events:
+  - The Spider Dragon's name is Cuddles, and she is actually the pet of Large Luigi. She guards the Nobles Tower and awaits the return of her master.
+    - Cuddles has been trained to attack only those creatures who try to steal from the Nobles Tower.
+  - - If Cuddles deams a Creature an ally, she will subvert her roll as dangerous dungeon monster and instead act like a cute little puppy.
+  - If the players are attempting to aid Luigi, he will ask them to help him retrieve Cuddles before leaving the castle.
+
+### R205: Arcanist Spyre: Lab Level
+
+- Creatures
+  - Beholder
+- Items:
+  - Astral Geode (500 lbs)
+  - Enchanting Table
+  - Alchemist Table
+  - Witch's Cauldron
+  - Lots of Potions
+    - Elixir of Health
+    - Oil of Etherealness
+    - Oil of Sharpness
+    - Oil of Slipperiness
+    - *Philter of Love
+    - *Potion of Aqueous Form
+    - Potion of Clairvoyance
+    - *Potion of Diminuation
+    - *Potion of Dragon's Mastery
+    - Potion of Flying
+    - *Potion of Gaseous Form
+    - *Potion of Fire Giant Strength
+    - *Potion of Invisibility
+    - *Potion of Invulnerability
+    - Potion of Longevity
+    - Potion of Growth
+    - *Potion of Speed
+    - *Potion of Healing
+    - *Potion of Greater Healing
+    - *Potion of Superior Healing
+    - *Potion of Supreme Healing
+    - *Potion of Poison
+    - Potion of Dragon's Breath
+  - Events
+    - Large Luigi, the beholder, is welcome to have guests in his humble lab.
+      - Eagerly offers to serve the party food and drink
+        - Regales his desire to become a tavern owner
+    - Possible Portal Location
+
+## Royal Quarters
+
+### R31: Quarter Entrance
+
+- Creatures:
+
+  - 2x Shadows
+- Events:
+
+  - Possible draw to Nardor's Lair
+
+### R32: Nardor's Lair
+
+- Creatures:
+  - Elder Shadow Drake
+- Treasure:
+  - 12 x 50 GP gems
+  - Boots of Elvenkind
+  - Cloak of Elvenkind
+- Events:
+- In combat they call upon Nurvureem's power on Initiative Count 20 to enact one of her lair actions
+  - If the party has not yet brokered a deal with Nurvureem then Nardor will demand they accompany him to her lair
+  - If the party is working with Nurvureem, Nardor will show interest in their current plans and operations, possibly offering helpful pieces of advice
+  - If the party tries to run from Nardor, he will atempt to follow their progress through the castle
+
+### R33: Royal Dining Quarters
+
+- Creatures: None
+- Treasure: None
+- Events:
+  - If the characters succeed on a DC 13 Investiagtio check they can find a recipe for `King's Roast` under one of the plates.
+    - Whole Hog
+    - Celestial Mead (10 Bottles)
+    - Potion of Growth
+    - Huge Adamantine Pot
+    - A fire breathing dragon
+    - Instructions
+      - Fill the Adamantine Pot with Celestial Mead and bring to a boil with Dragon's Fire
+      - Once at a boil, hold the hog over the boiling pot but do not drop it in
+      - Pour the Potion of Growth over the Hog (Be sure not to drop it in before it reaches full size)
+      - Let the Hog Boil for 1hr.
+      - Enjoy
+  - If the characters then make the King's Roast using the ingrediants in the kitchen, it will spawn a Hero's Feast for them.
+
+### R34: Royal Kitchen
+
+- Creatures:
+  - Puffin and Muffin: The talking hogs
+  - Jackles the trickster
+- Treasure: None
+- Events:
+  - Jackles the trickster floats back and forth between the hogs Puffin and Muffin to try and convince the party that both hogs are sentient beings
+  - The party can use Muffin as part of the recipe for the King's Roast
+
+### R35: Quarters of the Royal Guards
+
+- Creatures:
+  - 3x Animated Adamantine Armor
+    - Have the stat block of an Iron Golem, but with only 50 HP each
+    - Each wields an Adamantine Longsword
+- Treasure:
+  - Adamantine Longsword
+  - +2 Spear
+  - +2 Longsword
+
+### R36: Campsite of the Cultists
+
+- Creatures
+  - 4x Cult Fanatics
+  - 1x Remnant Cultist
+- Treasure
+  - The Rod of Neverwinter
+- Events
+  - If confronted, the cultists will try to use the Rod of Neverwinter to garner defense from the guardians in area 35 and 38.
+  - The cultists plan to use the rod as a bargaining chip with Nurvureem to convince the dragon to send souls to their master.
+  - If the cultists do escape, they show up in the final fight against either Nurvureem or Lady Sofina
+
+### R37: The Arcanist Spyre: Entrance
+
+- Creatures
+  - Beholder
+- Items: None
+- Events:
+  - If the party aims to do harm towards Large Luigi, the Beholder begins using it's lair actions against them as soon as they enter the Arcanist Spyre
+    - Upon doing so, Large Luigi warns the party that they face the holder of knowledge and thay continuing on is futile
+  - If the party seems neutral to Large Luigi he will great them with an arcane eye and inquire as to their purpose in the castle
+  - If the party is allied with Large Luigi he will happily invite them down to his lab for some tea and cookies.
+
+### R38: Lair of the Guardian
+
+- Creatures
+  - Iron Golem
+- Items: None
+- Events:
+  - If the party is opposed to Nurvureem and does not possess the Rod of Neverwinter then the Iron Golem will attack and pursue them throughout the Royal Quarters, calling other Castle Defenders to it's aide.
+
+### R39: Royal Cellar
+
+
+- Creatures: None
+- Treasure:
+  - If the characters succeed on a DC perception check they can determine the value of wine in each of the barrels
+  - Barrel 1:
+
+    - DC 15
+    - Dwarf Stone Mead (80 Bottles)
+    - 50 GP per Bottle to the right alchemist
+  - Barrel 2:
+
+    - DC 18
+    - Elf Sung Tree Cider (80 bottles)
+    - 100 GP per bottle
+  - Barrel 3:
+
+    - DC 15:
+    - Dragon Fire Spirits (80 Bottles)
+    - 150 GP per bottle
+  - Barrel 4:
+
+    - DC 20:
+    - Celestial Mead(10 Bottles)
+    - 100 PP per bottle
+  - Barrel 5:
+
+    - DC 18:
+      - On a succesful save the drinker can add 1d4 elemental damage to their attacks for 10 minutes
+      - On a failed save, the drinker takes 3d8 elemental damage
+    - Elemental Whisky (3 Bottles)
+  - - 700 GP per bottle
+  - Barrel 6:
+
+    - DC 24:
+    - Neverwinter Rum (10 bottles)
+    - 1000 GP per bottle (Long lost recipe)
+  - Barrel 7
+
+    - DC 15:
+      - 2d6 Fire Damage on failed save
+    - Mount Hope Now Spirits (2 bottles)
+    - 500 GP per bottle
+
+### R301: The Royal Treasury
+
+- Creatures:
+  - Shadows 3x
+- Items:
+  - Smashed Chests: 6x
+  - Guarded Chests
+    - Guarded Chest 1:
+
+      - 11000 GP
+      - 2200 PP
+    - Guarded Chest 2:
+
+      - 8x 500 GP amythysts
+      - Spell Scroll of Awaken
+    - Guarded Chest 3:
+
+      - 2x 750 GP emeralds
+      - Potion of Vitality
+      - Potion of Supreme Healing
+      - Potion of Invisibility
+
+### R302: The Royal Quarters
+
+- Creatures:
+  - Conjurer Wizard: Ursa (The Flesh Offering)
+- Items:
+  - Royal Bed: 1000 GP
+  - Rug of Flying
+  - Manual of Flesh Golems
+- Events:
+  - Ursa is happy to welcome party members into her humble abode
+  - In combat they call upon Nurvureem's power on Initiative Count 20 to enact one of her lair actionss
+    - Spends most hours pouring over her manual of Flesh Golems in the study over
+    - Wants to show the party her power and control over other creatures
+    - If threatened she will first summon a Fire Elemental to fight by her side. If She becomes bloodied, she will flea to the Bathroom where she keeps the components to her golem and atempt a hasty Creation of the unfinished beast.
+      - Makes an Arcana Check
+      - For every point under DC 20 subtract 10 HP from the Flesh Golem and Ursa takes thay many d6 psychic damage
+
+### R303: Royal Study
+
+- Creatures
+  - None
+- Items:
+  - Tome of Neverwinter
+  - Personal Journal of Haleuth Never
+    - Requires DC 15 Investigation check
+- Events: None
+
+### R304: Royal Bath
+
+- Creatures: None
+- Items:
+  - 25,000 GP is Flesh Golem parts
+  - Flesh Golem ritual circle
+- Events:
+  - If the party kills Ursa before she finishes her ritual they can atempt to complete the ritual on their own. Doing so requires 25,000 GP of magic items to fuel the ritual, which the ritual destroys. One member of the party can then make a DC 15 Arcana check to atempt to use the Manual of Flesh Golems to enact the ritual and raise the monstrosity.
+
+### R305: Royal Guest Tower: Lower Level
+
+### R306: Never Spyre: First Floor: Summoning Circle
+
+In this room, Ursa the summoner conjures creatures into the summoning circle for Nurvureem to use her Shadow Breath on. Any creatures that die as a result are turned to shadows, while the rest cower in fear until Nurvureem breathes again. 
+
+- Events: If the party is hostile to Nurvureem and she defeats them in battle, she will prefer to have them brought here that she might form them into minions
+
+## The Never Spire Second Floor
+
+- Cretures
+  - 2x Shadow Horrors
+- Events
+  - The Shadow Horrors here guard Nurvureems lair. They are thoughtless and racked with hunger. Nurvureem feeds them the shadows or her less useful victims that they might grow more powerful
+  - In combat they call upon Nurvureem's power on Initiative Count 20 to enact one of her lair actions
