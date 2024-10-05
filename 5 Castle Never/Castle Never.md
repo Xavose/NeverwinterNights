@@ -29,7 +29,9 @@ Since her escape, Nurvureem has taken root in the highest towers of Castle Never
 
 Nurvureem wants the treasure, bones, and spirits that reside within Castle Never so that she can turn the castle into her new base of power. She has little regard for the denizens of Neverwinter, after all, a lion does not mind the ants that burrow outside its cave.
 
-If the party wants to side with Nurvureem she will require they complete the following Objectives: 
+Nurvureem's true purpose it to get revenge on Lorn Haleuth Never for killing her brood several centuries ago. Before she fled the sword coast, she swore to return and bring an end to everything Lord Haleuth built with his hands and loins. 
+
+If the party wants to side with Nurvureem she will require they complete the following Objectives:
 
 - Bring her the treasure locked inside the vaults on the second floor (R23)
   - The chests are trapped with powerful magic
@@ -139,7 +141,7 @@ Durring his time in their service, Desther will aid their quest in any way he ca
 
 ### Large Luigi
 
-This rather benevolent beholder once ruled the castle floors, until Nurvureem and The Necromancer arrived. Now, Large Luigi holds out in one of the collapsed towers, biding his time to escape. 
+This rather benevolent beholder once ruled the castle floors, until Nurvureem and The Necromancer arrived. Now, Large Luigi holds out in one of the collapsed towers, biding his time to escape.
 
 ### The Axe of Unbridled Knowledge
 
@@ -205,7 +207,55 @@ As Castle Never was cleared and came back into use in the late 15^th^ century DR
 
 # Castle Floors and Rooms
 
+## Neverneath Catacombs
+
+![1727894518622](image/CastleNever/1727894518622.png)
+
+## The Dungeon
+
+![1727894484017](image/CastleNever/1727894484017.png)
+
+### B101: Stairs Up
+
+### B102: The True Tomb of Haleuth Never
+
+In this rather unmarked and unadorned room lies the true tomb of Lord Haleuth Never. 
+
+- Protections
+  - The Tomb of Never cannot be opened unless a creature answers a series of riddles. If a player tries to force open the tomb, then Nine Magical swords will attack. The swords are immune to all damage while animated in this fassion.
+  - Each time a question answers wrong, one of the swords lifts up and begins attacking one of the players.
+  - Questions
+    - How many fingeers have I?
+      - Nine
+    - What name has the lake beside Neverwinter
+      - Black Lake
+    - If you were an enemy of Neverwinter, where would you be buried
+      - Tomb of the Betrayers
+    - Name the Artery of Neverwinter
+      - Neverwinter River
+    - How many gates must one pass through
+      - Three (Number of gates to get from one side of Neverwinter to the other)
+    - Name our first enemies
+      - Luskan
+    - What keeps winter from Neverwinter
+      - The heat of Mount Hopenow
+    - Do you pledge your loyalty to Neverwinter
+      - Yes
+    - If a character answers all questions correctly they will become one of the Neverwinter Nine and one of the swords will pass to them whith it's enchantments still in place.
+      - Dancing Sword
+      - Reputation with Neverwinter +2 ranks
+- Monsters
+  - 8x Flying Swords
+    - Immune to damage
+- Treasure
+  - Crown of Neverwinter (50,000 GP) (Locked in Lord Never's Tomb)
+- Frank
+  - If the players ask Frank for all the answers, then Frank becomes the next Neverwinter Nine.
+
+
 ## Main Floor
+
+![1727894302252](image/CastleNever/1727894302252.png)
 
 ### R112: Stables
 
@@ -215,7 +265,9 @@ As Castle Never was cleared and came back into use in the late 15^th^ century DR
 
 ## Second Floor
 
-The Shadow Dragon Nurvureem uses the Second Floor as a buffer floor to the rest of her domain. Prior to the shadow dragon and necromancer's arrival, this floor was controlled by the Beholder Large Luigi, who now holds up at the bottom of a collapsing tower. 
+The Shadow Dragon Nurvureem uses the Second Floor as a buffer floor to the rest of her domain. Prior to the shadow dragon and necromancer's arrival, this floor was controlled by the Beholder Large Luigi, who now holds up at the bottom of a collapsing tower.
+
+![1727894235101](image/CastleNever/1727894235101.png)
 
 ### R21: The Throne Room
 
@@ -318,6 +370,8 @@ The Shadow Dragon Nurvureem uses the Second Floor as a buffer floor to the rest 
 
 ### R26: Storage Room
 
+Secret Passage to R35 and R107
+
 ### R27: Wine Cellar
 
 - Creatures: None
@@ -401,6 +455,7 @@ The Shadow Dragon Nurvureem uses the Second Floor as a buffer floor to the rest 
 - Events
 
   - The rust monster attacks the first player it sees wearing or carying non magical weapons or armor
+  - Secret Passage to R29
 
 ### R204: Nobles Tower: Storage Level
 
@@ -476,6 +531,8 @@ In this room, the long forgotten nobles stored their finest robes and jewls
     - Possible Portal Location
 
 ## Royal Quarters
+
+![1727894275553](image/CastleNever/1727894275553.png)
 
 ### R31: Quarter Entrance
 
@@ -572,7 +629,6 @@ In this room, the long forgotten nobles stored their finest robes and jewls
   - If the party is opposed to Nurvureem and does not possess the Rod of Neverwinter then the Iron Golem will attack and pursue them throughout the Royal Quarters, calling other Castle Defenders to it's aide.
 
 ### R39: Royal Cellar
-
 
 - Creatures: None
 - Treasure:
@@ -678,14 +734,127 @@ In this room, the long forgotten nobles stored their finest robes and jewls
 
 ### R306: Never Spyre: First Floor: Summoning Circle
 
-In this room, Ursa the summoner conjures creatures into the summoning circle for Nurvureem to use her Shadow Breath on. Any creatures that die as a result are turned to shadows, while the rest cower in fear until Nurvureem breathes again. 
+In this room, Ursa the summoner conjures creatures into the summoning circle for Nurvureem to use her Shadow Breath on. Any creatures that die as a result are turned to shadows, while the rest cower in fear until Nurvureem breathes again.
 
+- Creatures: These creatures are captives of Ursa the Flesh Offering. The captives only speak goblin and orc. If the party manages to communicate with them, the various creatures can provide the following knowledge.
+  - Goblins
+    - Ursa likes to take a prisoner with her back to her chambers
+  - Orcs
+    - The many arrowed tribe plans to attack Neverwinter in just a few moons
+  - Hobgoblins
+    - Very powerful shadow creatures sometimes descend from on high to torment the prisoners
+  - Bugbears
+    - Stories of the past tell of a terrible battle between a great king of Neverwinter and a Red Dragon. The Neverwinter King was unable to destroy the dragon, but instead slew her children. Overcome with grief, the Dragon fled, but vowed to the king that she would return and detroy everything that he had built with his hands, mind, and loins
 - Events: If the party is hostile to Nurvureem and she defeats them in battle, she will prefer to have them brought here that she might form them into minions
 
 ## The Never Spire Second Floor
+
+![1727894334845](image/CastleNever/1727894334845.png)
 
 - Cretures
   - 2x Shadow Horrors
 - Events
   - The Shadow Horrors here guard Nurvureems lair. They are thoughtless and racked with hunger. Nurvureem feeds them the shadows or her less useful victims that they might grow more powerful
   - In combat they call upon Nurvureem's power on Initiative Count 20 to enact one of her lair actions
+  - If the shadows become bloodied, they atempt to flea the battle and take refuge at the peak of the Never Spyre
+- Notes
+  - The corner stairs only lead down from this level
+  - The central stiars lead higher
+
+## The Never Spiral - Level 3
+
+On this floor Nurvureem keeps her treasure horde. Valuables claimed across the swordcoast to fit her needs. If the players spend time in each horde room they can make an investigation check. If they do so with the intent of being quiet they must also roll a stealth check. Each investigation check requires 10 minutes of searching as the party members atempt to sift through the treasure for the most valuable pieces.
+
+Each treasure pile is watched over by one of Nurvureem's shadows. It is a DC 10 Perception check to notice that one of Nurvureem's shadows are watching nearby. If the player's can be stealthy and quick, they can dispatch the shadow without alerting Nurvureem. If a shadow spots the PCs, it fleas to alert Nurvureem. Nurvureem does not mind creatures admiring it's horde, but only shadow flame awaits those who dare steal from her. Any player who even takes just a single item from Nurvureem's horde is marked for death by the Lady of Darkness. Upon first seeing the creature with her own eyes she will not hesitate to burn them with her Shadow Flame.
+
+If players are atempting to be stealthy as they plunder they must make a stealth check. Being stealthy also halves the speed at which they can plunder. 
+
+Unless the players have an alternative means of carying gold, they are limited to carrying 4,000 GP in their packs. 
+
+Every time the players search there is a 20% chance that either Nurvureem or one of her minions will pop in to check on the treasure pile. Roll a D10 for each time the player's search.
+
+- 3-10 Nothing Happens
+- 1-2 Roll a d6 to determine who comes to check on the treasure
+  - 1: Nurvureem (Lands on one of the outdoor ledges)
+  - 2: Nardor (Lands on one of the outdoor ledges)
+  - 3: Ursa (Comes up the stairs)
+  - 4: 2x Shadow Horrors (Rise up through the floor)
+  - 5: The Cult of Origin (Come up on the stairs seeking an audience with Nurvureem)
+    - If the players instigate if fight with the Cultists, it may alert Nurvureem from above
+  - 6: 6 shadows (Rise up through the floor)
+
+![1727894380358](image/CastleNever/1727894380358.png)
+
+### 501 - Stairs up and down 
+
+### 502 - Gold Pile
+
+- 30,000 GP
+  - 5,000 GP per Investigation check
+- Hammer of Thunderbolts (DC 15 Investigation)
+- Ioun stone (Greater Absorption) (DC 15 Investigation)
+
+### 503 - Treasure Pile
+
+- 17,500 GP of treasure
+  - 3,000 GP of treasure per Investigation check
+- Potion of Supreme Healing
+- Potion of Cloud Giant Strength
+
+### 504 - Gold Pile
+
+- 20,000 GP
+  - 5,000 GP per investigation check
+- Mace of Smiting (DC 12 Investigation)
+
+### 505 - Piles of Bones
+
+Here Nurvureem keeps the corpses of all her foes. From lowley farm boys, to once proud adventurers. All have fallen beneather her breath
+
+- Wand of Web (DC 10 Investigation)
+- Ring of Animal Influence (DC 14 Investigation)
+- Shield +2 (DC 12 Investigation)
+- Wings of Flying (DC 17 Investigation)
+- Staff of Swarming Insects (DC 15 Investigation)
+
+## The Never Spire - Peak
+
+Here, high above the clouds, and on the peak of Castle Never, the great Dragon Nurvureem waits, observes, and plots. 
+
+![1727894423425](image/CastleNever/1727894423425.png)
+
+### Battle with Nurvureem
+
+If the party enter's battle with Nurvureem she will employ the following tactics. 
+
+1. She will move between the outer spiers to use them as cover whenever possible. Focussing on staying out of sight of spell casters.
+2. Whenever her breath weapon is available, she will use it to hit as many party members as possible
+3. When her breath weapon is down, she will fly in and try to grapple the weakest character with her bite attack and take two claw attacks on another player.
+   1. If she successfuly grapples a character, she will fly them out over the castle edge and drop them
+4. When Nurvureem becomes bloodied
+   1. She will unleash her frightful presence
+   2. She will recall her minions to protect her
+      1. If they are still alive both Nardor and Ursa will come to her aid.
+         1. They are both added to the initiative but use both their movement and actions for thier first round of combat to appear
+            1. Nardor dashes up from his root
+            2. Ursa uses Dimension Door
+      2. Each subsequent round on initiative count 20 1d6 shadows will appear as they dash to protect their queen
+
+### Talking with Nurvureem
+
+- If any creature has stolen from her horde, Nurvureem begins negotiations by using her breath weapon on that creature
+- During their negotiation, player's can gain advantage with Nurvureem by doing any of the follwoing
+
+  - Present her with treasure taken from within the Castle
+    - Any given treasure is added to her Treasure Horde
+  - Tell her of a plan to get revenge on Lord Haleuth Never
+    - A descendent of Lord Haleuth Never is currently acting as the Open Lord of Waterdeep. If the player's share this information, Nurvureem will agree to leave the Denizens of Neverwinter alive so that she can destroy this Open Lord (Lord Neverember)
+    - Alternatively, the party could offer up Zenith as one of the last remaining ties to the Neverwinter Nine (who were instrumental in the destruction of her brood). If Zenith agrees, Nurvureem will surprise the party by transforming Zenith rather than destroying him. She will taint his sorcerus origins and transform him into a Shadow Sorcerer.
+  - Tell her a plan to restore her dragon eggs that Lord Haleuth Never destroyed
+- If the party wants to side with Nurvureem she will require they complete the following Objectives:
+
+  - Bring her the treasure locked inside the vaults on the second floor (R23)
+
+    - The chests are trapped with powerful magic
+  - Bring her old man bellows so that she can use him to gain greater controll over the castle
+  - Rid the Noble Spyre and Arcanist Spyre of their pests
