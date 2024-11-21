@@ -45,3 +45,23 @@ Katrina Westing
 [Aldwin Graves](https://forgottenrealms.fandom.com/wiki/Aldwin_Graves "Aldwin Graves")
 
 ## Services
+
+# The Creator Race
+
+## Leader
+
+Morag - Mother of Origin
+
+# The World Slaves
+
+## Leader
+
+Haedraline
+
+# The Arcane Brotherhood
+
+## Leader
+
+## Notable Villians
+
+### Maugrim Korothir: Leader of the Cult of Origin

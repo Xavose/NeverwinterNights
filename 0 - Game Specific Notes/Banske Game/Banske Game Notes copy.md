@@ -1,8 +1,38 @@
 # Notes
 
-A mirror battle
-- If a character attacks their own mirror, they take the same amount of damage that they dealt to the mirror. 
-- 
+A cold shiver runs over your skin and stirs you from your slumber. As your eyes fight away the wearyness you are surprised to find the room illuminated by a strange blue light. You blink away the wearyness and as your vision clears the blue light solidifies into the form of a ghostly elven knight. 
+
+The knight:
+
+- Sir Klvaine, one of the royal guards of Castle Never
+- The veil between worlds has thinned over Castle Never, manifesting the spirits of Lord Never's court into your world
+- The Shadow Dragon and the Necromancer will undoubtedly sense this disturbance and seek to use the vulnerable state of Lord Never's sprit to take hold of the Castle and Neverwinter at large
+- Please find the tomb of Lord Never before they do and protect him at all costs
+  - In 4 real time hours the veil will be restored.
+  - The players have until that time to interact with the Denizen's of Lord Never's court to try and discover the location of his tomb
+    - Hints to the Location of Lord Never's tomb
+      - Lord Never hid the location of his tomb from even his most trusted family and advisors
+      - Lord Never wanted the Nine to join him in his final resting place
+      - Lord Never had powerful enchantments emplaced to protect his tomb that would only lift once a true friend of Neverwinter answered nine questions truthfuly
+        - How many fingeers have I?
+          - Nine
+        - What name has the lake beside Neverwinter?
+          - Black Lake
+        - If you were an enemy of Neverwinter, where would you be buried?
+          - Tomb of the Betrayers
+        - What is the Artery of Neverwinter?
+          - Neverwinter River
+        - How many gates must one pass through?
+          - Three (Number of gates to get from one side of Neverwinter to the other)
+        - Name our first enemies?
+          - Luskan
+        - What keeps winter from Neverwinter?
+          - Mount Hopenow
+        - Do you pledge your loyalty to Neverwinter?
+          - Yes
+      - If the tomb is discovered, the Nine will rise to protect their Lord
+      - Before his death, Lord Never spent much time in the Dungeons
+      - Lord never was actually only burried with 8 knights, as his Ninth betrayed him and was never replaced
 
 # Current Quests
 
@@ -16,7 +46,7 @@ A mirror battle
   - The Shadow Dragon Nurvureem has escaped Neverwinter Academy and taken roost in Castle Never.
   - Go into Castle Never, and retrieve the Shadow Dragon's heart for use in the Cure for the Wailing Death.
   - The party has allied with Sofina and her Legion of Bones.
-    - Reconnect the telleporters. 
+    - Reconnect the telleporters.
     - Defeat Nurvureems two lieutenants
       - Nardor
       - Ursa
@@ -31,6 +61,8 @@ A mirror battle
   - Reward: Aid in defeating Nurvureem
 - Kill Lady Sofina
   - Reward: Dragon Scale Armor
+- Save Sir Talinar from the hall of mirrors
+- (DO NOT TELL PLAYERS YET) Rescue Fenthick and Desther from the Cult of Origin
 
 # Possible Quests
 

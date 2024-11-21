@@ -29,7 +29,7 @@ Since her escape, Nurvureem has taken root in the highest towers of Castle Never
 
 Nurvureem wants the treasure, bones, and spirits that reside within Castle Never so that she can turn the castle into her new base of power. She has little regard for the denizens of Neverwinter, after all, a lion does not mind the ants that burrow outside its cave.
 
-Nurvureem's true purpose it to get revenge on Lorn Haleuth Never for killing her brood several centuries ago. Before she fled the sword coast, she swore to return and bring an end to everything Lord Haleuth built with his hands and loins. 
+Nurvureem's true purpose it to get revenge on Lorn Haleuth Never for killing her brood several centuries ago. Before she fled the sword coast, she swore to return and bring an end to everything Lord Haleuth built with his hands and loins.
 
 If the party wants to side with Nurvureem she will require they complete the following Objectives:
 
@@ -211,6 +211,95 @@ As Castle Never was cleared and came back into use in the late 15^th^ century DR
 
 ![1727894518622](image/CastleNever/1727894518622.png)
 
+### B201 - Stairs Up
+
+### B202 - Small Crypt
+
+- Unveiling
+  - Tod the Archanist
+    - Explorer who got trapped in the Neverneath before dying
+    - Suspects he knows the true location of Lord Never's Tomb
+      - Wants help getting put to rest
+      - Body is in area B209 beneath the dirt
+
+### B203 - Crypt Logs
+
+- Records containing the whereabouts of various individuals within the catacombs
+  - Notable inhabitants
+    - Lord Never:
+      - DC 15 Int Check: Actual tomb location
+      - Otherwise: False tomb location
+    - Queen Never: Laid behind a path blocked bu faith (B205)
+    - Lord Never's Sons: B211 and B210
+
+### B204 - Tomb of the Betrayers
+
+- An intricate door bars to far wall. Above the door reads (in elvish) "Tomb of the Betrayers"
+- This seemingly dead end can be bypassed with a successful DC 15 lockpicking slight of hand check.
+- Creatures:
+  - Revenant (deep in the pit)
+- Treasure:
+  - If a player successfully descends into the pit and survives they could come back with untold riches
+- Unveiling
+  - Should the players open the tomb and leave it open the following monsters will rise out every minute
+    - Spectre
+    - Banshee
+    - Wraith
+    - Demilich
+
+### B205 - Lady Never's Tomb
+
+- Treasure
+  - 100 gp art objects
+  - Bag of Holding (Ornate)
+- Unveiling
+  - Lady Never
+    - Does not know the location of her husband's tomb
+    - Knows the answer to one of the questions
+
+### B206 - Crypt Fountain
+
+This fountain was made in homage to the goddess Sehanine Moonbow
+
+Drinking from the fountain grants the False Life spell (Can drink once per short rest)
+
+- Creatures
+
+  - Deathlock
+  - Skeletons
+- Treasure
+
+  - The fountain is pretty expensive
+- Events
+
+  - If the deathlock feels threatened, he will atempt to flea to area B216
+
+### B207 - Lair of Grog
+
+- Creatures:
+  - Ogre Zombie
+  - 
+
+### B208b: Prince of Nether
+
+### B208b: Trap room
+
+### B209: Zombie Fingers
+
+### B210: Prince of Nether
+
+### B211: Cracked Tomb
+
+### B212: Prison Cell
+
+### B213: Fake tomb of Never
+
+### B214: Six Unmarked
+
+### B215: Crypts
+
+### B216: Throne of Bones
+
 ## The Dungeon
 
 ![1727894484017](image/CastleNever/1727894484017.png)
@@ -219,7 +308,7 @@ As Castle Never was cleared and came back into use in the late 15^th^ century DR
 
 ### B102: The True Tomb of Haleuth Never
 
-In this rather unmarked and unadorned room lies the true tomb of Lord Haleuth Never. 
+In this rather unmarked and unadorned room lies the true tomb of Lord Haleuth Never.
 
 - Protections
   - The Tomb of Never cannot be opened unless a creature answers a series of riddles. If a player tries to force open the tomb, then Nine Magical swords will attack. The swords are immune to all damage while animated in this fassion.
@@ -249,9 +338,123 @@ In this rather unmarked and unadorned room lies the true tomb of Lord Haleuth Ne
     - Immune to damage
 - Treasure
   - Crown of Neverwinter (50,000 GP) (Locked in Lord Never's Tomb)
+  - Flying Sword
 - Frank
   - If the players ask Frank for all the answers, then Frank becomes the next Neverwinter Nine.
+- Unveiling:
+  - The magical protections over Lord Never's tomb prevent him or one of the Nine from interacting with anyone until all of the riddles have been solved.
 
+### B103: Nobles Tomb
+
+- Monsters
+  - 4x Skeletons
+- Treasure
+  - 8 PP
+  - 30 GP
+- Events
+  - These undead will generally remian dormant unless commanded by Lady Sofina or her Dreadlocks
+- Unveiling
+  - Ousara:
+    - Noble of Lord Never's Court
+    - Once heard a scholar mutter something strange in the Tomb nearby
+      - What is the Artery of Neverwinter?
+
+### B104: Mummy Crypt
+
+- Monsters
+  - 3x Mummies
+- Treasure
+  - 500 GP
+  - 50 PP
+- Events
+  - Portal Room
+- Unveiling
+  - Dungeon Guardians
+    - Know that shortly before Lord Never died one of his Nine betrayed him, so he ended up only getting burried with 8 of the Nine
+
+### B105: Gargoyle Statue
+
+- Monsters
+  - Salt Golem (Floor Guardian)
+- Treasure: None
+- Events:
+  - The Gargoyle is alerted to any creatures that cross into the hall in front of it.
+  - Due to the Golem's immense size, it must squeeze through many of the cooridors in the Dungeon.
+
+### B106: Collapesed Stairs
+
+These Stairs lead out to the cliff scape on the Main Floor of Castle Never
+
+### B107: Lary the Intruder
+
+Here there is the corpse of a would be crypt robber.
+
+Lary is able to communicate as if animated by the animate dead
+
+### B108: The Last Emperor of the North
+
+- Creatures
+  - Mummy Lord
+- Treasure
+  - 1250 GP worth of artifacts
+  - Scroll of Balde of Disaster
+- The Unveiling
+  - Emperor Telwain:
+    - Can answer one of Lord Never's questions
+
+### B109: The Nether Fault
+
+- 8,000 GP worth of gems and gold
+- DC 15 check to open
+
+### B110: Unmarked Tombs
+
+- Creatures
+  - 4x Skeletons
+- Treasure
+  - 78 GP
+  - Shrine to Tyr
+
+### B111: Trapped Hallway
+
+- Creatures: None
+- Treasure: None
+- Traps:
+  - DC 13 Perception
+  - DC 15 Dexterity
+  - Teleported into one of the cells
+- Events
+  - The trap in this hallway was originally designed to prevent prisoners from escaping. Anyone with the Rod of Neverwinter is immediately made aware of this trap.
+  - The trap can be disabled by throwing a lever on the near side of the hall (furthest from the cells)
+
+### B112 Prison Block: Open Quarters
+
+- Creastures: None
+- Events:
+  - One of the small piles of bones is clearly that of a young boy
+  - At 6 am till 6 pm the doors to the cells remain open. All other times, the doors to the cells remain closed
+  - If players succeed in a DC 15 religion check they can identify the satue in the middle of the room as a depiction of the Archdevil Bel
+    - If players make a saccrifice to Bel the Archdevil might send one of his servants to parlay with them
+- Unveiling
+  - Tommy terror: You see the ghost of a young boy playing with some of the nearby bones
+    - Tommy was the worst sort of kid imagineable, and used to come down to the dungeon to terrorize and even torture prisoners.
+    - He met his untimely demise when he accidentally tripped the trap in area B111 and trapped himself within the Prison Block and was not found in time to be saved
+    - Tommy hopes to trick the party into letting him tag along so he can cause all sorts of mischief
+
+### B113 - B114: Prison Cells
+
+- Creatures:
+  - Black Pudding
+  - Yellow Mold
+    - DC 13 Con
+    - 3d6 poison damage
+  - Gelatinous Cube
+- Treasure:
+  - 60 Electrum Pieces
+- Unveiling
+  - Talwan the Deceiptful
+    - Died as a prisoner of Lord Never after being captured trying to betray his king to Luskan
+      - Knows the answer to "Name our first enemies": Luskan
 
 ## Main Floor
 
@@ -427,7 +630,7 @@ Secret Passage to R35 and R107
   - 2x Flying Swords
 - Items: None
 - Events: If the party seems hostile to Old Man Bellows, he will dart inside the armory and use the Animated defenders to escape out a servants hatch
-  - DC 20 perception check to discover the hatch
+  - DC 20 investigation check to discover the hatch
   - Leads down to area 112, the stables. From there, Old man bellows will continue to use the castle defenders to evade the party.
 
 ### R202: Armory of the High Guard
@@ -520,8 +723,6 @@ In this room, the long forgotten nobles stored their finest robes and jewls
     - *Potion of Speed
     - *Potion of Healing
     - *Potion of Greater Healing
-    - *Potion of Superior Healing
-    - *Potion of Supreme Healing
     - *Potion of Poison
     - Potion of Dragon's Breath
   - Events
@@ -604,7 +805,9 @@ In this room, the long forgotten nobles stored their finest robes and jewls
   - 1x Remnant Cultist
 - Treasure
   - The Rod of Neverwinter
+  - Note from the Servant of Origin: Word has reached us that the leader of the Helmites and his most trusted companion are within the walls of Castle Never with you. Capture them if you can, and bring them to me. ~Servant of Origin
 - Events
+  - If Fenthick and Desther become separated from the group, Desther uses his sources within the cult to have himself and Fenthick abducted.
   - If confronted, the cultists will try to use the Rod of Neverwinter to garner defense from the guardians in area 35 and 38.
   - The cultists plan to use the rod as a bargaining chip with Nurvureem to convince the dragon to send souls to their master.
   - If the cultists do escape, they show up in the final fight against either Nurvureem or Lady Sofina
@@ -767,9 +970,9 @@ On this floor Nurvureem keeps her treasure horde. Valuables claimed across the s
 
 Each treasure pile is watched over by one of Nurvureem's shadows. It is a DC 10 Perception check to notice that one of Nurvureem's shadows are watching nearby. If the player's can be stealthy and quick, they can dispatch the shadow without alerting Nurvureem. If a shadow spots the PCs, it fleas to alert Nurvureem. Nurvureem does not mind creatures admiring it's horde, but only shadow flame awaits those who dare steal from her. Any player who even takes just a single item from Nurvureem's horde is marked for death by the Lady of Darkness. Upon first seeing the creature with her own eyes she will not hesitate to burn them with her Shadow Flame.
 
-If players are atempting to be stealthy as they plunder they must make a stealth check. Being stealthy also halves the speed at which they can plunder. 
+If players are atempting to be stealthy as they plunder they must make a stealth check. Being stealthy also halves the speed at which they can plunder.
 
-Unless the players have an alternative means of carying gold, they are limited to carrying 4,000 GP in their packs. 
+Unless the players have an alternative means of carying gold, they are limited to carrying 4,000 GP in their packs.
 
 Every time the players search there is a 20% chance that either Nurvureem or one of her minions will pop in to check on the treasure pile. Roll a D10 for each time the player's search.
 
@@ -785,7 +988,7 @@ Every time the players search there is a 20% chance that either Nurvureem or one
 
 ![1727894380358](image/CastleNever/1727894380358.png)
 
-### 501 - Stairs up and down 
+### 501 - Stairs up and down
 
 ### 502 - Gold Pile
 
@@ -819,13 +1022,13 @@ Here Nurvureem keeps the corpses of all her foes. From lowley farm boys, to once
 
 ## The Never Spire - Peak
 
-Here, high above the clouds, and on the peak of Castle Never, the great Dragon Nurvureem waits, observes, and plots. 
+Here, high above the clouds, and on the peak of Castle Never, the great Dragon Nurvureem waits, observes, and plots.
 
 ![1727894423425](image/CastleNever/1727894423425.png)
 
 ### Battle with Nurvureem
 
-If the party enter's battle with Nurvureem she will employ the following tactics. 
+If the party enter's battle with Nurvureem she will employ the following tactics.
 
 1. She will move between the outer spiers to use them as cover whenever possible. Focussing on staying out of sight of spell casters.
 2. Whenever her breath weapon is available, she will use it to hit as many party members as possible

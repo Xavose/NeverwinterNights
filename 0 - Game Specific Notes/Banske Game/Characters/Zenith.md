@@ -64,13 +64,13 @@ Roll: Intimidation
 
 ~~In this dream, Athreos watches Thracier fight along Lord Never and the Other Neverwinter Nine. Thracier is acting as both a shield and healer to the king. Allowing his fellow knights and lord to shrug off blows that fell many other mortals on the battlefield. The entire time, Thracier seems to be keeping an eye on Athreos and casting out spells of restoration on each soul that Athreos moves up to collect. Unknown to his fellow knights, Thracier is waging his own personal battle against the god of passage. When Athreos grows tired of this, he stops collecting souls all together, thinking he has won, Thracier yells out a cry of victory. Athreos highlights the single spirit of a man on the battlefield. The man has fallen, but without Athreos to guide him cannot move on. Athreos warns Thracier not to bring back this man. After the battle, Thracier is seen healing and raising many on the battlefield until he comes to the soul of the man Athreos warned him of. He is seen bringing the man back to life, and handing the unconsious body off to a healer.~~
 
-### The Price of Defiance (Complete)
+### ~~The Price of Defiance (Complete)~~
 
-In this dream, Athreos moves down to collect the souls of two of the nine and the man Thracier saved before going on to watch Thracier. Thracier is woken in the dead of night by one of the other Nine. They rush to the courtyard where they find the body of the man Thracier saved dead alongside two of the other nine. Try as he might, Thracier cannot bring back the souls of his fallen brother's now that the god of passage has already claimed them. Athreos again appears infront of Thracier and this time offers him a staff that looks identical to his own. Thracier reguards the weapon with fear, but reluctantly accepts the branch and becomes a true servant of passage.
+~~In this dream, Athreos moves down to collect the souls of two of the nine and the man Thracier saved before going on to watch Thracier. Thracier is woken in the dead of night by one of the other Nine. They rush to the courtyard where they find the body of the man Thracier saved dead alongside two of the other nine. Try as he might, Thracier cannot bring back the souls of his fallen brother's now that the god of passage has already claimed them. Athreos again appears infront of Thracier and this time offers him a staff that looks identical to his own. Thracier reguards the weapon with fear, but reluctantly accepts the branch and becomes a true servant of passage.~~
 
-### Servant of Passage
+### ~~Servant of Passage~~
 
-In this dream, Athreos watches as Thracier once again fights alongside the Nine in battle. This time, they are asaulting the city of Lusk. The war has clearly been heavy upon the forces of Lord Never, who are now more savage and ruthless than ever. Thracier still acts as both sword and healere to his Lord and the Nine, but he no longer casts out spells to steal souls away from their passage. Instead, Thracier can be seen calling upon the god of Passage and helping to reap souls doomed to die. Athreos had granted Thracier the vision to differentiate between those destined for passage and those whose souls may yet still cling to life. For those who might live, Thracier sends out motes of light healing a revitalizing them. For those destined to pass, Thracier touches them with his staff before two reapers appear and carry the soul upwards.
+~~In this dream, Athreos watches as Thracier once again fights alongside the Nine in battle. This time, they are asaulting the city of Lusk. The war has clearly been heavy upon the forces of Lord Never, who are now more savage and ruthless than ever. Thracier still acts as both sword and healere to his Lord and the Nine, but he no longer casts out spells to steal souls away from their passage. Instead, Thracier can be seen calling upon the god of Passage and helping to reap souls doomed to die. Athreos had granted Thracier the vision to differentiate between those destined for passage and those whose souls may yet still cling to life. For those who might live, Thracier sends out motes of light healing a revitalizing them. For those destined to pass, Thracier touches them with his staff before two reapers appear and carry the soul upwards.~~
 
 ### Orders of Betrayal
 
@@ -79,6 +79,10 @@ In this dream, Athreos descends on his griffon to watch Thracier as he sits and 
 ### Betrayal
 
 In this vision, Athreos watches as Thracier attacks the two of the Nine marked for death upon the battlements of Castle Never. Thracier is outmatched in matial prowess but calls upon his God to grant his power. Souls of those who are passing suddenly swarm around Thracier in a thick green and silvery cyclone. Thracier uses these spritis to throw his fellow Knights off of the battlements and to their deaths below. The bodies are seen by other guards of lord Never, who sound the alarm, and many guards can be heard leading towards the tower. Thracier then looks to his god and puts his weapons and armor on the ground before stepping up to the edge of the battlements. `I Am Ready!` He cries.  There, Athreos appears to him and reaps the soul from his chest. His body falls to the ground below, but his spirit looks upon Athreos in awe as the God of Passage turns him into a Deva, and Thracier takes his place as one of the Reapers.
+
+### A Witch, A Circle, A Child
+
+### The defender of lost souls
 
 ### A witch, a reaper, and a dream
 
