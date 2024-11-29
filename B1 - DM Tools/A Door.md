@@ -1,6 +1,6 @@
 # Development
 
-The party is currently greatly in debt within A Door. As a result all Con saves will increase by 2 the next time they come through. 
+The party is currently greatly in debt within A Door. As a result all Con saves will increase by 2 the next time they come through.
 
 # How it happens
 
@@ -23,7 +23,7 @@ The party is currently greatly in debt within A Door. As a result all Con saves 
 
 **Any character who would like to just rummage about can make an investigation check. **
 
-Time fluctuates differently within A Door and the more time the players spend looking the more time passess in the real world. 
+Time fluctuates differently within A Door and the more time the players spend looking the more time passess in the real world.
 
 The first investigation check consumes 12 hours of real world time and the player must succeed on a DC 10 Consititution save or gain a level of exhaustion. The second investigation check consumes 24 hours and the player must succeed on a DC 12 Constitution save. The third consumes 48 hours and must succeed on a DC 16 Constitution save and so forth according to below
 
@@ -58,16 +58,16 @@ What a player finds for each roll is determined by the results below
 * 21 - 25: Roll once on Treasure Horde Challenge 11 - 16
 * 26 - 30: Roll with advantage on Treasure Horde Challenge 11 - 16
 
-If a player is looking for a specific item. If they roll high enough on both their investigation check and the magic item tale rolls that they roll above what would be required to find that item then they can choose to find that item instead. 
+If a player is looking for a specific item. If they roll high enough on both their investigation check and the magic item tale rolls that they roll above what would be required to find that item then they can choose to find that item instead.
 
-Items that are found are free, but something must be left in its place per item. 
+Items that are found are free, but something must be left in its place per item.
 
 # Taken and left behind
 
-- Zenith
+- Zenith (Flat rolls)
   - Potion of Healing -> Potion of Greater Healing
   - 19 Gp -> 19 x 100 GP gems
-- Stacia
+- Stacia (Flat rolls)
   - Potion of hill giant strength x1
     Crossbow x2
     Crossbow bolts x40
@@ -82,7 +82,7 @@ Items that are found are free, but something must be left in its place per item.
     Potion of greater healing x1
     Rope, hempen x1
     Gold x100 -> Wings of Flying, +2 Greatsword, Elven Chain, Sword of Wounding.
-- Gariel
+- Gariel (Flat rolls)
   - 8 GP -> 8 x 250 GP gems
   - 2x Daggers ->
   - Tinder Box ->
@@ -98,8 +98,11 @@ Items that are found are free, but something must be left in its place per item.
   - 2x Potion of Healing -> 2x Potions of Giant Str (stone and frost)
   - Javalin -> Spell scroll 5th level (Reincarnate)
   - Rope, tinder box, torch, water skin -> 4x 250 GP artwork
-- Caenis
+- Caenis (Flat rolls)
   - Alchemist Kit -> Potion of Healing
   - Dagger -> Potion of Healing
   - 3 silvered arrows -> 75 GP
   - hempen rope -> 25 gp
+  - Dagger +1, Oil of Sliperiness -> loun stone (leadership), Spellguard shield
+- Hugs (Disadvantage)
+  - Potion of healing -> Javelin of lightning
