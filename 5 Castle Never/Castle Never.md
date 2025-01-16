@@ -300,6 +300,15 @@ Drinking from the fountain grants the False Life spell (Can drink once per short
 
 ### B216: Throne of Bones
 
+- Treasure
+  - +2 Great Axe
+  - Bag of holding
+    - Robe of Eyes
+    - Wand of the warmage +2
+    - Necklace of prayer beeds
+    - Cloak of Displacement
+    - Wand of paralysis
+
 ## The Dungeon
 
 ![1727894484017](image/CastleNever/1727894484017.png)
@@ -312,24 +321,17 @@ In this rather unmarked and unadorned room lies the true tomb of Lord Haleuth Ne
 
 - Protections
   - The Tomb of Never cannot be opened unless a creature answers a series of riddles. If a player tries to force open the tomb, then Nine Magical swords will attack. The swords are immune to all damage while animated in this fassion.
-  - Each time a question answers wrong, one of the swords lifts up and begins attacking one of the players.
-  - Questions
-    - How many fingeers have I?
-      - Nine
-    - What name has the lake beside Neverwinter
-      - Black Lake
-    - If you were an enemy of Neverwinter, where would you be buried
-      - Tomb of the Betrayers
-    - Name the Artery of Neverwinter
-      - Neverwinter River
-    - How many gates must one pass through
-      - Three (Number of gates to get from one side of Neverwinter to the other)
-    - Name our first enemies
-      - Luskan
-    - What keeps winter from Neverwinter
-      - The heat of Mount Hopenow
-    - Do you pledge your loyalty to Neverwinter
-      - Yes
+  - Trials: For each trial, the player must recount a moment where they embraced and displayed the virtue. If they fail to do so, the sword will attack them without end until they complete the rest of the trials.
+
+    - Trial of Sacrifice (Elven): When has the character sacrificed for Neverwinter
+    - Trial of Wisdom (Dwarven): What wisdom has the character brought to Neverwinter
+    - Trial of Justice (Halfling): When the player found Justice for Neverwinter
+    - Trial of Loyalty (Dragonborn): When the player chose Neverwinter over something else
+    - *Trial of freedom (Orc): How the character broke the chains of the bound
+    - Trial of Mercy (Primordial): How the character showed mercy to a foe
+    - Trial of Valor (Celestial):
+    - Trial of Honor (Infernal):
+    - Trial of Truth (Common):
     - If a character answers all questions correctly they will become one of the Neverwinter Nine and one of the swords will pass to them whith it's enchantments still in place.
       - Dancing Sword
       - Reputation with Neverwinter +2 ranks
@@ -402,7 +404,7 @@ Lary is able to communicate as if animated by the animate dead
   - Emperor Telwain:
     - Can answer one of Lord Never's questions
 
-### B109: The Nether Fault
+### B109: The Nether Vault
 
 - 8,000 GP worth of gems and gold
 - DC 15 check to open
@@ -509,7 +511,6 @@ The Shadow Dragon Nurvureem uses the Second Floor as a buffer floor to the rest 
 
     - Plus One Shortsword
     - Alchemist's supplies
-    - Bag of Holding
     - Bracers of Archery
     - Case, Crossbow Bolt
     - Chest (Large)
@@ -518,7 +519,6 @@ The Shadow Dragon Nurvureem uses the Second Floor as a buffer floor to the rest 
     - Hourglass
     - Mariner's Chain mail
     - Nine Lives Stealer Scimitar (Fully Charged)
-    - Peridot
     - Ring mail Armor of Resistance (Acid)
     - Scroll of Barkskin
     - Scroll of Blade Ward
@@ -797,6 +797,8 @@ In this room, the long forgotten nobles stored their finest robes and jewls
   - Adamantine Longsword
   - +2 Spear
   - +2 Longsword
+- Events
+  - Trap door to area 26
 
 ### R36: Campsite of the Cultists
 

@@ -1,6 +1,6 @@
 # Notes
 
-A cold shiver runs over your skin and stirs you from your slumber. As your eyes fight away the wearyness you are surprised to find the room illuminated by a strange blue light. You blink away the wearyness and as your vision clears the blue light solidifies into the form of a ghostly elven knight. 
+A cold shiver runs over your skin and stirs you from your slumber. As your eyes fight away the wearyness you are surprised to find the room illuminated by a strange blue light. You blink away the wearyness and as your vision clears the blue light solidifies into the form of a ghostly elven knight.
 
 The knight:
 
@@ -62,7 +62,6 @@ The knight:
 - Kill Lady Sofina
   - Reward: Dragon Scale Armor
 - Save Sir Talinar from the hall of mirrors
-- (DO NOT TELL PLAYERS YET) Rescue Fenthick and Desther from the Cult of Origin
 
 # Possible Quests
 
