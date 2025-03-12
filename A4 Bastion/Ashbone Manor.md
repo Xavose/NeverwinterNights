@@ -91,7 +91,7 @@ Tyrin offers to act as the Party's captain of the guard, but makes it clear that
 # Bastion Tracking
 
 ## Defenders
-12
 
-## Armory Stock
+12qArmory Stock
+
 Yes
