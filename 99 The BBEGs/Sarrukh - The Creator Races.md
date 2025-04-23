@@ -1,3 +1,7 @@
+# Symbol
+
+A serpantine eye with a ring of scales around it
+
 # Antagonists
 
 ## Morag - Archmage of the Creator Race
