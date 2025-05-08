@@ -8,7 +8,9 @@ Start of Game
     - Symbol: An eye with a ring of scales around it
     - Note
       - Encrypted with magical glyphs that only a certain device can decode
-      - Reads: You are free to pillage and take whatever you want. We must distract the guards. They will take care of the cure.
+      - Reads: You are free to pillage and take whatever you want. Keep the guards busy. Our allies within the walls will take care of the rest.
+      - Second Note Reads: Take a flight of goblins to the city core. Have them drop civilians from up high to draw as many guards as you can. Our allies need time to locate the cure.
+      - Third Note Reads: (In a much more ligible writing) Chief Ulrogh, as you siege against the city, the servant will be destroying the cure. I have been reasured that they have already infultrated the inner circle. All they need is a destraction to ensure the guards are stretched thin. Bring destruction down upon the Jewl of the North. Till it is ground into dust.
   - Strange glass device
     - Like a compass with a cap like lense that flips up and then has dials beneathe it. Three rings of dials, each with five hiroglyphic like symbols representing the creator races
       - Sarrukh - Humanoid Snake - Yuanti
