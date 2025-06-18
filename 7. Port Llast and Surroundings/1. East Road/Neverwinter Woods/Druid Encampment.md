@@ -1,5 +1,5 @@
 | ![](https://www.gamebanshee.com/neverwinternights/nwnwalkthrough/maps/nwnwood_druidencamp.jpg)``Druid Encampment |
-| :-------------------------------------------------------------------------------------------------------------------: |
+| :------------------------------------------------------------------------------------------------------------: |
 
 **1 � EXIT TO EAST ROAD**
 
@@ -9,10 +9,11 @@ Exiting from here will get you back to the East Road Area.
 
 A druid camp is assembled here in order to prevent people from entering the woods since the forest became a dangerous place. It seems that something strange happened to the Spirit of the Woods and the animals attack everyone that enters the woods even Druids and Rangers. The Archdruid Aawill is the leader of the grove here. Talk to him to learn more about the situation with the Neverwinter Woods and about the Spirit of the Woods itself. Aawill will give you two new Quests. A couple of Druids have gone missing after venturing to the forest and he will ask you to search and find them if possible. He will also request from you to save the Spirit of the Woods if you can find a way into its realm.
 
-See below as of where you can find the missing druids:* **Orlane** � Located at the cave along the Deep Woods area
+See below as of where you can find the missing druids:* 
 
 * **Bree** � Located in Setara's House at the Heart of the Forest
 * **Tetari** � Located in the Nymph's House at the Deep Woods
+* **Orlane** � Located at the cave along the Deep Woods area
 
 For rescuing each druid you will be rewarded with 300 gold pieces and 99 experience points after talking with Aawill. When you rescue all three of them talk with Aawill again to complete the Quest for the Missing Druids. Also when you do restore the Spirit of the Woods back to its normal state Aawill will reward you further with 500 experience points and a [Cloak of the High Forest](https://www.gamebanshee.com/neverwinternights/nwnwalkthrough/neverwinterwooddruidencampment.php#null).
 
