@@ -4,8 +4,9 @@ You start Chapter Two from here knowing almost nothing for the mystery Cult that
 
 Kendrack the mayor is also located here, if you talk to him he will let you know of some prisoners that have escaped from the prison of Waterdeep and that a bounty has been placed on their head. As proof Kendrack asks for the tattooed ear of the prisoner that shows they were prisoners, before he give you any reward.
 
-You have to search for the following people:*  **Zor** , a Minotaur possibly found at Green Griffon Inn at the North Road
+You have to search for the following people:
 
+*  **Zor** , a Minotaur possibly found at Green Griffon Inn at the North Road
 * **Wyvern** , an Elven ranger possibly found in the Neverwinter Wood
 * **Stirge** , a Gnome possibly found somewhere to the South Road
 * **Delilah** , a Halfling possibly found somewhere to the East Road
