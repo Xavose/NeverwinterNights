@@ -14,7 +14,7 @@ Artifacts of the Dawn War scattered across Faerûn. Each word follows three step
 
 **Effects:**
 
-- While the word is in your possession, you can choose for any damage you deal as part of an attack or spell to be necrotic damage.
+- While the word is in your possession, any damage you deal as part of an attack or spell is necrotic damage. This applies to additional effects that might add damage to that spell or attack. Such as a class feature or a magic weapon that deals bonus damage.
 
 ---
 
@@ -22,13 +22,13 @@ Artifacts of the Dawn War scattered across Faerûn. Each word follows three step
 
 **Requires:** Attunement
 
-**How to unlock:** Cherish the death of a loved one
+**How to unlock:** Understand the cost of death
 
 **Form:** A large black crow
 
 **Effects:**
 
-- While attuned to the word, once per turn you can use your bonus action to turn the eye of death upon another creature. The next attack roll against that creature has advantage, or the creature has disadvantage on the next saving throw it makes to avoid damage or death.
+- While attuned to the word, once per turn you can use your bonus action to turn the eye of death upon another creature. Until the start of your next turn that creature has vulnerability to necrotic damage. If they are immune or resistant to necrotic damage they lose that immunity or resistance for the same period of time.
 
 ---
 
