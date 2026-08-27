@@ -30,12 +30,12 @@ With Helm **gone**, the Stairway has **no clear successor**. **Morag** orchestra
 
 ### 1.4 Design goals
 
-| Goal | How this adventure serves it |
-|------|-------------------------------|
-| Gariel spotlight | Summons, Helm resonance on the Stairway, final confrontation choices. |
-| Guest engagement | Torm-assigned companions with **Stairway boons**; entrance branches reward different skills. |
-| Tyr drama | Tyriel as protector and secret keeper; **unmasking at Everwatch** when Cyric sees through him. |
-| Campaign bridge | Corruption source named; optional **Word of Power** clue; Gariel may **unlock** Helm power if Tyr imbues him in the fight. |
+| Goal             | How this adventure serves it                                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Gariel spotlight | Summons, Helm resonance on the Stairway, final confrontation choices.                                                                 |
+| Guest engagement | Torm-assigned companions with**Stairway boons**; entrance branches reward different skills.                                     |
+| Tyr drama        | Tyriel as protector and secret keeper;**unmasking at Everwatch** when Cyric sees through him.                                   |
+| Campaign bridge  | Corruption source named; optional**Word of Power** clue; Gariel may **unlock** Helm power if Tyr imbues him in the fight. |
 
 **Suggested length:** 1 session (4–5 hr, rush one entrance) or **2–3 sessions** (all three entrances as rumors + one chosen, full Inn, Everwatch).
 
@@ -56,11 +56,11 @@ With Helm **gone**, the Stairway has **no clear successor**. **Morag** orchestra
 
 ### 3.1 Torm (Act I only, usually)
 
-| Trait | Notes |
-|-------|--------|
-| Voice | Calm, **absolute**, fatherly steel—not shouting. |
-| Want | Corruption **rooted out**; Gariel **returned alive**. |
-| Won't do | Abandon the Stairway himself (explains part-time guard). |
+| Trait    | Notes                                                            |
+| -------- | ---------------------------------------------------------------- |
+| Voice    | Calm,**absolute**, fatherly steel—not shouting.           |
+| Want     | Corruption**rooted out**; Gariel **returned alive**. |
+| Won't do | Abandon the Stairway himself (explains part-time guard).         |
 
 No combat stats needed unless Gariel attacks a god (don't).
 
@@ -84,11 +84,11 @@ No combat stats needed unless Gariel attacks a god (don't).
 
 ### 3.5 Entrance NPCs (pick one branch to prep deeply)
 
-| Location | NPCs | Quick stat |
-|----------|------|------------|
-| **Castle Kilgrave** (Cormyr) | **Blackguards of Bane** (3–6) | **Blackguard** (VGTM) or **knight** + **Inflict Wounds** |
-| **Temple of Lathander** (Shadowdale) | Priests, **modrons** trapped in wards | Priests: **acolyte** / **priest**; modrons: **monodrone**–**quadrone** |
-| **Griffon Eyrie** (Mount Waterdeep) | **Halaster** or **clone** | **Archmage**; insane dialogue rules (§6.3c) |
+| Location                                   | NPCs                                       | Quick stat                                                                                     |
+| ------------------------------------------ | ------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **Castle Kilgrave** (Cormyr)         | **Blackguards of Bane** (3–6)       | **Blackguard** (VGTM) or **knight** + **Inflict Wounds**                     |
+| **Temple of Lathander** (Shadowdale) | Priests,**modrons** trapped in wards | Priests:**acolyte** / **priest**; modrons: **monodrone**–**quadrone** |
+| **Griffon Eyrie** (Mount Waterdeep)  | **Halaster** or **clone**      | **Archmage**; insane dialogue rules (§6.3c)                                             |
 
 ---
 
@@ -100,12 +100,12 @@ Torm assigns **2–4 companions** from his service: paladins, war clerics, plana
 
 ### 4.2 Stairway boon (one per guest PC)
 
-| Boon | Effect |
-|------|--------|
-| **Torm's Anchor** | Once per session: **advantage** on save vs. being **moved** or **teleported** on the Stairway. |
-| **Oath of Direction** | Once: when the party would be sent to a **wrong** landing, reroll or **force** one Int check to notice the wrong path (**DC 14**). |
-| **Duty's Shield** | Once: when Gariel takes damage, you may take it instead (you take full amount). |
-| **Lantern of Trueheart** | Light 20 ft.; once, reveal **illusions** in 30 ft. (**DC 15** Wis save or illusion suppressed 1 round). |
+| Boon                           | Effect                                                                                                                                              |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Torm's Anchor**        | Once per session:**advantage** on save vs. being **moved** or **teleported** on the Stairway.                                     |
+| **Oath of Direction**    | Once: when the party would be sent to a**wrong** landing, reroll or **force** one Int check to notice the wrong path (**DC 14**). |
+| **Duty's Shield**        | Once: when Gariel takes damage, you may take it instead (you take full amount).                                                                     |
+| **Lantern of Trueheart** | Light 20 ft.; once, reveal**illusions** in 30 ft. (**DC 15** Wis save or illusion suppressed 1 round).                                  |
 
 Gariel's innate boon: **Helm's resonance**—see §5.2.
 
@@ -117,13 +117,13 @@ Gariel's innate boon: **Helm's resonance**—see §5.2.
 
 Track **Distortion** from **0** to **5**. At **5**, the next transition sends the party to a **hostile** or **comic wrong** landing (DM picks); then reset to **3**.
 
-| Event | Distortion |
-|-------|------------|
-| Enter the Stairway from Material Plane | +1 |
-| Failed navigation check (§5.3) | +1 |
-| Accept Cyric-tainted bargain (Bane oath, false shortcut at Inn) | +2 |
-| Use Halaster's “shortcut” without verification | +1 |
-| Break Elminster's wards **carelessly** (see §6.3b) | +1 |
+| Event                                                           | Distortion |
+| --------------------------------------------------------------- | ---------- |
+| Enter the Stairway from Material Plane                          | +1         |
+| Failed navigation check (§5.3)                                 | +1         |
+| Accept Cyric-tainted bargain (Bane oath, false shortcut at Inn) | +2         |
+| Use Halaster's “shortcut” without verification                | +1         |
+| Break Elminster's wards**carelessly** (see §6.3b)        | +1         |
 
 **Reduce Distortion:** Successful **Investigation** or **Arcana** at Nowhere Inn (§7); **Ratatoskr** ride (−1 once); **Gariel's Helm resonance** (−1 once per session).
 
@@ -136,8 +136,8 @@ When Gariel is on the Stairway or in **Everwatch**, he may use **Helm's resonanc
 
 **Unlock (finale):** If Tyr **imbues** Gariel during Cyric fight, grant one of:
 
-- **+1** spell attack / save DC for divine spells until long rest, or  
-- One extra use of **Helm's resonance** per short rest, or  
+- **+1** spell attack / save DC for divine spells until long rest, or
+- One extra use of **Helm's resonance** per short rest, or
 - Known spell: *Warding bond* or *Beacon of hope* (once/long rest without slot)—pick what fits his build.
 
 ### 5.3 Navigation on the Stairway
@@ -190,11 +190,11 @@ If Gariel swears to **kill one mortal when Bane chooses**:
 
 Present **three** known landings on the **Sword Coast** (handout or narration):
 
-| Entrance | Location | Hook |
-|----------|----------|------|
-| **A. Castle Kilgrave** | Cormyr | Bane's blackguards guard a **tainted** threshold |
-| **B. Temple of Lathander** | Shadowdale | **Elminster's wards**; trapped **modrons** |
-| **C. Griffon Eyrie** | Mount Waterdeep | **Halaster** studies the breach |
+| Entrance                         | Location        | Hook                                                   |
+| -------------------------------- | --------------- | ------------------------------------------------------ |
+| **A. Castle Kilgrave**     | Cormyr          | Bane's blackguards guard a**tainted** threshold  |
+| **B. Temple of Lathander** | Shadowdale      | **Elminster's wards**; trapped **modrons** |
+| **C. Griffon Eyrie**       | Mount Waterdeep | **Halaster** studies the breach                  |
 
 **Travel time (narrative):** Kilgrave **3–5 days** from Neverwinter; Shadowdale **4–6**; Griffon Eyrie **1–2** (visible from Waterdeep).
 
@@ -237,12 +237,12 @@ Present **three** known landings on the **Sword Coast** (handout or narration):
 
 **Mechanics — ward puzzle (3 successes before 2 failures):**
 
-| Approach | Skill | DC |
-|----------|-------|-----|
-| Read Elminster's script | Arcana | 15 |
-| Harmonize with Lathander's dawn rite | Religion | 14 |
-| Deduce lawful “key” sequence | Investigation | 16 |
-| Raw dispel (risky) | Arcana | 18 |
+| Approach                             | Skill         | DC |
+| ------------------------------------ | ------------- | -- |
+| Read Elminster's script              | Arcana        | 15 |
+| Harmonize with Lathander's dawn rite | Religion      | 14 |
+| Deduce lawful “key” sequence       | Investigation | 16 |
+| Raw dispel (risky)                   | Arcana        | 18 |
 
 - **Success path:** Free **2d4 modrons** (monodrones/quadrons); **no** Distortion penalty.
 - **Failure on risky dispel:** **+1 Distortion**; **1d6** modrons **hostile** (confused) for 2 rounds until calmed (**DC 13 Persuasion**).
@@ -261,10 +261,10 @@ Present **three** known landings on the **Sword Coast** (handout or narration):
 
 **Critical RP rule — inverted courtesy:**
 
-| Party approach | Halaster reaction |
-|----------------|-------------------|
-| **Kind, flattering, “wise sir”** | He reads it as **false appeasement** → **attacks** (“You smell like **Chessex** and **lies**!”) |
-| **Brusque, rude, honest, no titles** | He **relaxes** → shares intel |
+| Party approach                             | Halaster reaction                                                                                                         |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| **Kind, flattering, “wise sir”**   | He reads it as**false appeasement** → **attacks** (“You smell like **Chessex** and **lies**!”) |
+| **Brusque, rude, honest, no titles** | He**relaxes** → shares intel                                                                                       |
 
 **Intel (if friendly):**
 
@@ -309,23 +309,23 @@ Present **three** known landings on the **Sword Coast** (handout or narration):
 
 Track **Clues** (need **3** to unlock Ratatoskr's willingness to run to Everwatch):
 
-| Clue source | Skill | DC | Clue gained |
-|-------------|-------|-----|-------------|
-| **Djinni innkeeper** “Mistress of Keys” | Persuasion | 14 | “Dead god's tower **eats** destinations.” |
-| **Githzerai monk** | Insight | 15 | Saw **three-eyed** shadow (Cyric) near **upper landings** |
-| **Lost paladin of Helm** | Religion | 13 | Everwatch **still wards** but **wrong**—like a **mask** |
-| **Modron refugee** (if not from 3B) | Arcana | 14 | “Chaos sibling in **order** skin” |
-| **Ratatoskr** (bribe nuts or insult him) | Deception/Intimidation | 16 | Admits he knows path to Everwatch—**won't** until you have proof |
+| Clue source                                     | Skill                  | DC | Clue gained                                                               |
+| ----------------------------------------------- | ---------------------- | -- | ------------------------------------------------------------------------- |
+| **Djinni innkeeper** “Mistress of Keys” | Persuasion             | 14 | “Dead god's tower**eats** destinations.”                          |
+| **Githzerai monk**                        | Insight                | 15 | Saw**three-eyed** shadow (Cyric) near **upper landings**      |
+| **Lost paladin of Helm**                  | Religion               | 13 | Everwatch**still wards** but **wrong**—like a **mask** |
+| **Modron refugee** (if not from 3B)       | Arcana                 | 14 | “Chaos sibling in**order** skin”                                  |
+| **Ratatoskr** (bribe nuts or insult him)  | Deception/Intimidation | 16 | Admits he knows path to Everwatch—**won't** until you have proof   |
 
 **Each clue:** **−1 Distortion** (max once per clue type).
 
 #### 5.2 Services (optional roleplay)
 
-| Service | Cost | Effect |
-|---------|------|--------|
-| Stable for nerves | 5 gp | Remove 1 level **exhaustion** (one PC) |
-| Planar scribe | 20 gp | **Advantage** on next navigation check |
-| False guide | 10 gp | **Trap:** +2 Distortion unless **Insight DC 16** |
+| Service           | Cost  | Effect                                                       |
+| ----------------- | ----- | ------------------------------------------------------------ |
+| Stable for nerves | 5 gp  | Remove 1 level**exhaustion** (one PC)                  |
+| Planar scribe     | 20 gp | **Advantage** on next navigation check                 |
+| False guide       | 10 gp | **Trap:** +2 Distortion unless **Insight DC 16** |
 
 #### 5.3 Tyriel at the Inn
 
@@ -351,10 +351,10 @@ Cyric appears as **handsome stranger**, **three shadows**, or **Helm's face** (c
 
 **Tyriel/Tyr reaction (choose or player-driven):**
 
-| Reaction | Play |
-|----------|------|
-| **Flee** | Tyr **steps into light** and **vanishes** toward a **justice plane**—Cyric taunts Gariel: “Your keeper **ran**.” |
-| **Stay** | Tyr **does not** fight Cyric directly; may **imbue** Gariel (§5.2 unlock) and **hold** the tower's **exit** so Cyric cannot escape easily. |
+| Reaction       | Play                                                                                                                                                               |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Flee** | Tyr**steps into light** and **vanishes** toward a **justice plane**—Cyric taunts Gariel: “Your keeper **ran**.”                         |
+| **Stay** | Tyr**does not** fight Cyric directly; may **imbue** Gariel (§5.2 unlock) and **hold** the tower's **exit** so Cyric cannot escape easily. |
 
 #### 6.2 Confrontation paths
 
@@ -377,12 +377,12 @@ Cyric appears as **handsome stranger**, **three shadows**, or **Helm's face** (c
 
 #### 6.3 Ending outcomes
 
-| Outcome | World state |
-|---------|-------------|
-| **Cyric banished / bargain broken** | Stairway **partially** stable; Torm **pleased**; Tyr **debt** to Gariel |
-| **Cyric escapes with foothold** | Everwatch **still tainted**; sequel hook |
-| **Gariel accepts Cyric's offer** | **Major** campaign fork—Cyric patron (only if player wants) |
-| **Tyr fled** | Gariel knows **Tyr** hid something; Ashbone **Tyrin** reunion is **awkward** |
+| Outcome                                   | World state                                                                                   |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Cyric banished / bargain broken** | Stairway**partially** stable; Torm **pleased**; Tyr **debt** to Gariel      |
+| **Cyric escapes with foothold**     | Everwatch**still tainted**; sequel hook                                                 |
+| **Gariel accepts Cyric's offer**    | **Major** campaign fork—Cyric patron (only if player wants)                            |
+| **Tyr fled**                        | Gariel knows**Tyr** hid something; Ashbone **Tyrin** reunion is **awkward** |
 
 **Return:** Torm **recalls** them to Trueheart for **debrief** or they **walk out** nearest Sword Coast entrance (**1d4** days lost time optional).
 
@@ -390,15 +390,15 @@ Cyric appears as **handsome stranger**, **three shadows**, or **Helm's face** (c
 
 ## 7. Encounters Summary
 
-| Act | Location | Combat? | Primary mechanic |
-|-----|----------|---------|------------------|
-| I | Trueheart | No | Briefing, awe save |
-| IIIA | Kilgrave | Optional | Oath vs. blackguards |
-| IIIB | Shadowdale | Optional | Ward puzzle, modrons |
-| IIIC | Griffon Eyrie | Optional | Halaster social inversion |
-| IV | Stairway | Minor | Acrobatics on Ratatoskr |
-| V | Nowhere Inn | Optional | 3-clue investigation |
-| VI | Everwatch | Optional | Cyric boss / parley; Tyr reveal |
+| Act  | Location      | Combat?  | Primary mechanic                |
+| ---- | ------------- | -------- | ------------------------------- |
+| I    | Trueheart     | No       | Briefing, awe save              |
+| IIIA | Kilgrave      | Optional | Oath vs. blackguards            |
+| IIIB | Shadowdale    | Optional | Ward puzzle, modrons            |
+| IIIC | Griffon Eyrie | Optional | Halaster social inversion       |
+| IV   | Stairway      | Minor    | Acrobatics on Ratatoskr         |
+| V    | Nowhere Inn   | Optional | 3-clue investigation            |
+| VI   | Everwatch     | Optional | Cyric boss / parley; Tyr reveal |
 
 ---
 
@@ -406,67 +406,67 @@ Cyric appears as **handsome stranger**, **three shadows**, or **Helm's face** (c
 
 ### 8.1 Maps
 
-| Map | Notes |
-|-----|--------|
-| Trueheart hall | Simple dais + banners |
-| **One** entrance (Kilgrave / Shadowdale / Eyrie) | Only prep chosen branch first |
-| Infinite Staircase (abstract) | Single path + branches |
-| Nowhere Inn | Tent city, central fire |
-| Everwatch tower (interior) | Round room, **many windows** |
+| Map                                                    | Notes                             |
+| ------------------------------------------------------ | --------------------------------- |
+| Trueheart hall                                         | Simple dais + banners             |
+| **One** entrance (Kilgrave / Shadowdale / Eyrie) | Only prep chosen branch first     |
+| Infinite Staircase (abstract)                          | Single path + branches            |
+| Nowhere Inn                                            | Tent city, central fire           |
+| Everwatch tower (interior)                             | Round room,**many windows** |
 
 ### 8.2 Handouts
 
-- **Three entrances** flyer for players  
-- **Bane's oath** text (Kilgrave)  
-- **Modron testimony** slip (Shadowdale)  
+- **Three entrances** flyer for players
+- **Bane's oath** text (Kilgrave)
+- **Modron testimony** slip (Shadowdale)
 - **Cyric sigil** / **Helm's eye** (Everwatch)
 
 ### 8.3 Items
 
-| Item | Rarity | Notes |
-|------|--------|--------|
-| **Badge of Trueheart** | — | Act I, §6 |
-| **Shard of the Vigil** | Uncommon | Loot in Everwatch; +1 saves vs. illusion 1/day |
-| **Ratatoskr's shed whisker** | Trinket | Advantage on **one** Persuasion with fey/squirrel-type creatures |
+| Item                               | Rarity   | Notes                                                                 |
+| ---------------------------------- | -------- | --------------------------------------------------------------------- |
+| **Badge of Trueheart**       | —       | Act I, §6                                                            |
+| **Shard of the Vigil**       | Uncommon | Loot in Everwatch; +1 saves vs. illusion 1/day                        |
+| **Ratatoskr's shed whisker** | Trinket  | Advantage on**one** Persuasion with fey/squirrel-type creatures |
 
 ### 8.4 Stat blocks to bookmark
 
-- Blackguard / knight  
-- Monodrone, quadrone  
-- Archmage (Halaster, Cyric shell)  
+- Blackguard / knight
+- Monodrone, quadrone
+- Archmage (Halaster, Cyric shell)
 - Veteran (Tyriel if fought)
 
 ### 8.5 Audio / tone
 
-- Trueheart: drums, distant choir  
-- Stairway: wind, footsteps that aren't yours  
-- Inn: crowd, mismatched languages  
-- Everwatch: silence, clock ticks  
+- Trueheart: drums, distant choir
+- Stairway: wind, footsteps that aren't yours
+- Inn: crowd, mismatched languages
+- Everwatch: silence, clock ticks
 
 ### 8.6 Split sessions
 
-| Session end | Start next with |
-|-------------|-----------------|
+| Session end           | Start next with              |
+| --------------------- | ---------------------------- |
 | After entrance branch | On Ratatoskr or at Inn gates |
-| After Inn | Ratatoskr ride + Everwatch |
+| After Inn             | Ratatoskr ride + Everwatch   |
 
 ---
 
 ## 9. Continuity Hooks
 
-- **Morag:** Named in Torm's briefing; **modron** clue ties her ascent to Stairway.  
-- **Words of power:** A refugee sells a scroll “**word that binds a path**”—clue to main quest folder.  
-- **Tyrin at Ashbone:** Gariel returns knowing **Tyr** and **Cyric**; does he confront Tyrin before the party does?  
-- **Bane's oath:** If taken at Kilgrave, schedule the **debt** session.  
+- **Morag:** Named in Torm's briefing; **modron** clue ties her ascent to Stairway.
+- **Words of power:** A refugee sells a scroll “**word that binds a path**”—clue to main quest folder.
+- **Tyrin at Ashbone:** Gariel returns knowing **Tyr** and **Cyric**; does he confront Tyrin before the party does?
+- **Bane's oath:** If taken at Kilgrave, schedule the **debt** session.
 - **Partial Everwatch victory:** Torm still needs a **successor** to Helm—Gariel's long arc.
 
 ---
 
 ## 10. DM Notes & Safety
 
-- **Bane oath:** Session zero—confirm player **opt-in** for dark promise.  
-- **Halaster:** Comedy through **rudeness**—make sure the table understands the **inversion** so they don't feel punished for being polite OOC.  
-- **Tyr reveal:** Emotional; Gariel may feel **betrayed** by Tyriel—leave space for player reaction.  
+- **Bane oath:** Session zero—confirm player **opt-in** for dark promise.
+- **Halaster:** Comedy through **rudeness**—make sure the table understands the **inversion** so they don't feel punished for being polite OOC.
+- **Tyr reveal:** Emotional; Gariel may feel **betrayed** by Tyriel—leave space for player reaction.
 - **Cyric fight:** Deities at full power TPK tables—use **Lie lairs** and **retreat** logic.
 
 ---

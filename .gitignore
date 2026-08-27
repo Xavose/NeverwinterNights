@@ -1,0 +1,28 @@
+# Local Discord token / MCP config
+.cursor/mcp.json
+
+# Session recap pipeline
+session-recaps/.venv/
+session-recaps/config.local.json
+session-recaps/work/
+session-recaps/logs/
+session-recaps/inbox/*
+!session-recaps/inbox/.gitkeep
+!session-recaps/inbox/processed/
+!session-recaps/inbox/failed/
+session-recaps/inbox/processed/*
+session-recaps/inbox/failed/*
+!session-recaps/inbox/processed/.gitkeep
+!session-recaps/inbox/failed/.gitkeep
+session-recaps/**/*.flac
+session-recaps/**/*.ogg
+session-recaps/**/*.wav
+session-recaps/**/*.mp3
+session-recaps/**/*.m4a
+session-recaps/**/*.opus
+session-recaps/**/*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/

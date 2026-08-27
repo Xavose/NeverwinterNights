@@ -1,0 +1,8 @@
+{
+  "webhook_url": "https://discord.com/api/webhooks/ID/TOKEN",
+  "whisper_model": "turbo",
+  "language": "en",
+  "speaker_map": {
+    "PasteDiscordUsernameHere": "Gariel"
+  }
+}
